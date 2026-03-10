@@ -18,7 +18,13 @@ const time = new Date(totalSeconds * 1000).toLocaleString('en-US', {
   hour12: true,
 })
 
-const amountOfActsPlayed = data.map_point_history.length //
+const amountOfActsPlayed = data.map_point_history.length
+
+const hasMultipleActs = data.map_point_history.length >= 2
+const floors = hasMultipleActs 
+  ? data.map_point_history.flat().length 
+  : data.map_point_history[0]?.length || 0
+
 </script>
 
 <template>
@@ -37,7 +43,8 @@ const amountOfActsPlayed = data.map_point_history.length //
   </ul>
 
   <ul>
-    <li>{{ amountOfActsPlayed }}</li>
+    <li>Amount of acts played: {{ amountOfActsPlayed }}</li>
+    <li>Floors: {{ floors }}</li>
   </ul>
 </template>
 
