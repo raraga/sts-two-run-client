@@ -1,47 +1,48 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import data from '../data/defect-first-victory.json'
+
+const character = data.players[0]?.character?.split('.')[1]
+const totalSeconds = data.start_time
+const victory = data.win
+const runTime = data.run_time / 60
+const deck = data.players[0]!.deck.map((card) => card.id)
+const seed = data.seed
+const buildId = data.build_id
+const gameMode = data.game_mode == 'standard' ? 'Single' : 'Multiplayer'
+const time = new Date(totalSeconds * 1000).toLocaleString('en-US', {
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+  hour: 'numeric',
+  minute: '2-digit',
+  hour12: true,
+})
+
+const amountOfActsPlayed = data.map_point_history.length //
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+  <ul>
+    <li>Character: {{ character }}</li>
+    <li>Deck: {{ deck }}</li>
+    <li>Run Duration: {{ runTime }}</li>
+    <li>Victory: {{ victory }}</li>
+  </ul>
 
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
+  <ul>
+    <li>{{ time }}</li>
+    <li>Seed: {{ seed }}</li>
+    <li>Singleplayer: {{ gameMode }}</li>
+    <li>{{ buildId }}</li>
+  </ul>
 
-  <main>
-    <TheWelcome />
-  </main>
+  <ul>
+    <li>{{ amountOfActsPlayed }}</li>
+  </ul>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+<style>
+* {
+  font-family: sans-serif;
 }
 </style>
