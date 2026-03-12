@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import data from '../data/defect-first-victory.json'
+import defectCardData from '../data/defect_cards_upgraded.json'
 
 const character = data.players[0]?.character?.split('.')[1]
 const totalSeconds = data.start_time
@@ -21,31 +22,29 @@ const time = new Date(totalSeconds * 1000).toLocaleString('en-US', {
 })
 
 const acts = data.acts
-const amountOfActsPlayed = data.map_point_history.length
+const amountOfActsPlayed = data.acts.length
 
 const hasMultipleActs = data.map_point_history.length >= 2
-const floors = hasMultipleActs 
-  ? data.map_point_history.flat().length 
+const floors = hasMultipleActs
+  ? data.map_point_history.flat().length
   : data.map_point_history[0]?.length || 0
 
 const lastActIndex = amountOfActsPlayed - 1
 const lastActHistory = data.map_point_history[lastActIndex]
-const lastMapPlayed = lastActHistory[lastActHistory.length - 1]
-const gold = lastMapPlayed.player_stats[0].current_gold
-const hp = lastMapPlayed.player_stats[0].current_hp
-const maxHp = lastMapPlayed.player_stats[0].max_hp
-
+const lastMapPlayed = lastActHistory?.[lastActHistory.length - 1]
+const gold = lastMapPlayed?.player_stats[0]?.current_gold
+const hp = lastMapPlayed?.player_stats[0]?.current_hp
+const maxHp = lastMapPlayed?.player_stats[0]?.max_hp
 </script>
 
 <template>
-    <ul>
-        <li>{{ acts }}</li>
-    </ul>
+  <ul>
+    <li>{{ acts }}</li>
+  </ul>
 
+  <h2>Game Information</h2>
 
-<h2>Game Information</h2>
-
-<ul>
+  <ul>
     <li>Character: {{ character }}</li>
     <li>Run Duration: {{ runTime }}</li>
     <li>Victory: {{ victory }}</li>
@@ -57,23 +56,23 @@ const maxHp = lastMapPlayed.player_stats[0].max_hp
     <li>Potions Remaining: {{ potions }}</li>
     <li>Gold: {{ gold }}</li>
     <li>{{ hp }}/{{ maxHp }}</li>
-</ul>
+  </ul>
 
-<h2>Cards ({{ deck.length }})</h2>
+  <h2>Cards ({{ deck.length }})</h2>
 
-    <div class="deck-container">
-        <div v-for="card in deck">
-            <b v-if="card.current_upgrade_level == 1">{{ card.id }}</b>
-            <p v-else>{{ card.id }}</p>
-        </div>
+  <div class="deck-container">
+    <div v-for="card in deck" :key="card.id">
+      <b v-if="card.current_upgrade_level == 1">{{ card.id }}</b>
+      <p v-else>{{ card.id }}</p>
     </div>
+  </div>
 
-<h2>Relics ({{ relics.length }})</h2>
-    <div class="relic-container">
-        <div v-for="relic in relics">
-            <p>{{ relic }}</p>
-        </div>
+  <h2>Relics ({{ relics.length }})</h2>
+  <div class="relic-container">
+    <div v-for="relic in relics" :key="relic">
+      <p>{{ relic }}</p>
     </div>
+  </div>
 
 </template>
 
@@ -84,15 +83,13 @@ const maxHp = lastMapPlayed.player_stats[0].max_hp
 
 .deck-container,
 .relic-container {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    padding: 10px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
 }
 
 .deck-container > div,
-.relic-container > div{
-    border: 1px solid;
+.relic-container > div {
+  border: 1px solid;
 }
-
 </style>
-

@@ -1,0 +1,902 @@
+[
+  {
+    "card_name": "Bash",
+    "card_description": "Deal 8 damage. Apply 2 Vulnerable.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 10 damage. Apply 3 Vulnerable.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Defend (Ironclad)",
+    "card_description": "Gain 5 Block.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Gain 8 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Strike (Ironclad)",
+    "card_description": "Deal 6 damage.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 9 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Anger",
+    "card_description": "Deal 6 damage. Add a copy of this card into your Discard Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 8 damage. Add a copy of this card into your Discard Pile.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Armaments",
+    "card_description": "Gain 5 Block. Upgrade a card in your Hand.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 5 Block. Upgrade ALL cards in your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Blood Wall",
+    "card_description": "Lose 2 HP. Gain 16 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Lose 2 HP. Gain 20 Block.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Bloodletting",
+    "card_description": "Lose 3 HP. Gain @IE @IE.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Lose 3 HP. Gain @IE @IE @IE.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Body Slam",
+    "card_description": "Deal damage equal to your Block.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal damage equal to your Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Breakthrough",
+    "card_description": "Lose 1 HP. Deal 9 damage to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Lose 1 HP. Deal 13 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Cinder",
+    "card_description": "Deal 17 damage. Exhaust the top card of your Draw Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 22 damage. Exhaust the top card of your Draw Pile.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Havoc",
+    "card_description": "Play the top card of your Draw Pile and Exhaust it.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Play the top card of your Draw Pile and Exhaust it.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Headbutt",
+    "card_description": "Deal 9 damage. Put a card from your Discard Pile on top of your Draw Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 12 damage. Put a card from your Discard Pile on top of your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Iron Wave",
+    "card_description": "Gain 5 Block. Deal 5 damage.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Gain 7 Block. Deal 7 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Molten Fist",
+    "card_description": "Deal 10 damage. Double the enemy's Vulnerable. Exhaust.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 14 damage. Double the enemy's Vulnerable. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Perfected Strike",
+    "card_description": "Deal 6 damage. Deals 2 additional damage for ALL your cards containing \u201cStrike\u201d.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 6 damage. Deals 3 additional damage for ALL your cards containing \u201cStrike\u201d.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Pommel Strike",
+    "card_description": "Deal 9 damage. Draw 1 card.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Draw 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Setup Strike",
+    "card_description": "Deal 7 damage. Gain 2 Strength this turn.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 9 damage. Gain 3 Strength this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Shrug It Off",
+    "card_description": "Gain 8 Block. Draw 1 card.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 11 Block. Draw 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Sword Boomerang",
+    "card_description": "Deal 3 damage to a random enemy 3 times.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 3 damage to a random enemy 4 times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Thunderclap",
+    "card_description": "Deal 4 damage and apply 1 Vulnerable to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 7 damage and apply 1 Vulnerable to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Tremble",
+    "card_description": "Apply 2 Vulnerable.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Apply 3 Vulnerable.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "True Grit",
+    "card_description": "Gain 7 Block. Exhaust 1 card at random.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 9 Block. Exhaust 1 card .",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Twin Strike",
+    "card_description": "Deal 5 damage twice.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 7 damage twice.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Ashen Strike",
+    "card_description": "Deal 6 damage. Deals 3 additional damage for each card in your Exhaust Pile.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 6 damage. Deals 4 additional damage for each card in your Exhaust Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Battle Trance",
+    "card_description": "Draw 3 cards. You cannot draw additional cards this turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw 4 cards. You cannot draw additional cards this turn.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Bludgeon",
+    "card_description": "Deal 32 damage.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 42 damage.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Bully",
+    "card_description": "Deal 4 damage. Deals 2 additional damage for each Vulnerable on the enemy.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 4 damage. Deals 3 additional damage for each Vulnerable on the enemy.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Burning Pact",
+    "card_description": "Exhaust 1 card. Draw 2 cards.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Exhaust 1 card. Draw 3 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Demonic Shield",
+    "card_description": "Lose 1 HP. Give another player Block equal to your Block. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Lose 1 HP. Give another player Block equal to your Block.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Dismantle",
+    "card_description": "Deal 8 damage. If the enemy is Vulnerable, hits twice.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 10 damage. If the enemy is Vulnerable, hits twice.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Dominate",
+    "card_description": "Gain 1 Strength for each Vulnerable on the enemy. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 1 Strength for each Vulnerable on the enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Drum of Battle",
+    "card_description": "Draw 2 cards. At the start of your turn, Exhaust the top card of your Draw Pile.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw 3 cards. At the start of your turn, Exhaust the top card of your Draw Pile.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Evil Eye",
+    "card_description": "Gain 8 Block. Gain another 8 Block if you have Exhausted a card this turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 11 Block. Gain another 11 Block if you have Exhausted a card this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Expect a Fight",
+    "card_description": "Gain @IE for each Attack in your Hand.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain @IE for each Attack in your Hand.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Feel No Pain",
+    "card_description": "Whenever a card is Exhausted, gain 3 Block.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever a card is Exhausted, gain 4 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Fight Me!",
+    "card_description": "Deal 5 damage twice. Gain 2 Strength. The enemy gains 1 Strength.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 6 damage twice. Gain 3 Strength. The enemy gains 1 Strength.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Flame Barrier",
+    "card_description": "Gain 12 Block. Whenever you are attacked this turn, deal 4 damage back.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 16 Block. Whenever you are attacked this turn, deal 6 damage back.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Forgotten Ritual",
+    "card_description": "If you Exhausted a card this turn, gain @IE @IE @IE.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "If you Exhausted a card this turn, gain 4@IE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Grapple",
+    "card_description": "Deal 7 damage. Whenever you gain Block this turn, deal 5 damage to the enemy.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. Whenever you gain Block this turn, deal 7 damage to the enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Hemokinesis",
+    "card_description": "Lose 2 HP. Deal 14 damage.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Lose 2 HP. Deal 19 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Howl from Beyond",
+    "card_description": "Deal 16 damage to ALL enemies. At the start of your turn, plays from the Exhaust Pile.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 21 damage to ALL enemies. At the start of your turn, plays from the Exhaust Pile.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Infernal Blade",
+    "card_description": "Add a random Attack into your Hand. It's free to play this turn. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Add a random Attack into your Hand. It's free to play this turn. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Inferno",
+    "card_description": "At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 6 damage to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the start of your turn, lose 1 HP. Whenever you lose HP on your turn, deal 9 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Inflame",
+    "card_description": "Gain 2 Strength.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 3 Strength.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Juggling",
+    "card_description": "Add a copy of the third Attack you play each turn into your Hand.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Innate. Add a copy of the third Attack you play each turn into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Pillage",
+    "card_description": "Deal 6 damage. Draw cards until you draw a non-Attack card.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. Draw cards until you draw a non-Attack card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Rage",
+    "card_description": "Whenever you play an Attack this turn, gain 3 Block.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you play an Attack this turn, gain 5 Block.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Rampage",
+    "card_description": "Deal 9 damage. Increase this card's damage by 5 this combat.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. Increase this card's damage by 9 this combat.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Rupture",
+    "card_description": "Whenever you lose HP on your turn, gain 1 Strength.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you lose HP on your turn, gain 2 Strength.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Second Wind",
+    "card_description": "Exhaust all non-Attack cards in your Hand. Gain 5 Block for each card Exhausted.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Exhaust all non-Attack cards in your Hand. Gain 7 Block for each card Exhausted.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Spite",
+    "card_description": "Deal 6 damage. If you lost HP this turn, draw 1 card.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. If you lost HP this turn, draw 1 card.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Stampede",
+    "card_description": "At the end of your turn, 1 random Attack in your Hand is played against a random enemy.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the end of your turn, 1 random Attack in your Hand is played against a random enemy.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Stomp",
+    "card_description": "Deal 12 damage to ALL enemies. Costs 1 less @IE for each Attack played this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 15 damage to ALL enemies. Costs 1 less @IE for each Attack played this turn.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Stone Armor",
+    "card_description": "Gain 4 Plating.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 6 Plating.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Taunt",
+    "card_description": "Gain 7 Block. Apply 1 Vulnerable.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 8 Block. Apply 2 Vulnerable.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Unrelenting",
+    "card_description": "Deal 12 damage. The next Attack you play costs 0 @IE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 18 damage. The next Attack you play costs 0 @IE.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Uppercut",
+    "card_description": "Deal 13 damage. Apply 1 Weak. Apply 1 Vulnerable.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 13 damage. Apply 2 Weak. Apply 2 Vulnerable.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Vicious",
+    "card_description": "Whenever you apply Vulnerable, draw 1 card.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you apply Vulnerable, draw 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Whirlwind",
+    "card_description": "Deal 5 damage to ALL enemies X times.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 8 damage to ALL enemies X times.",
+    "energy_cost": "X",
+    "upgraded_energy_cost": "X",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Aggression",
+    "card_description": "At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. At the start of your turn, put a random Attack from your Discard Pile into your Hand and Upgrade it.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Barricade",
+    "card_description": "Block is not removed at the start of your turn.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Block is not removed at the start of your turn.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Brand",
+    "card_description": "Lose 1 HP. Exhaust 1 card. Gain 1 Strength.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Lose 1 HP. Exhaust 1 card. Gain 2 Strength.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Cascade",
+    "card_description": "Play the top X cards of your Draw Pile.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Play the top X+1 cards of your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Colossus",
+    "card_description": "Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 8 Block. You receive 50% less damage from Vulnerable enemies this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Conflagration",
+    "card_description": "Deal 8 damage to ALL enemies. Deals 2 additional damage for each other Attack you've played this turn.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 9 damage to ALL enemies. Deals 3 additional damage for each other Attack you've played this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Crimson Mantle",
+    "card_description": "At the start of your turn, lose 1 HP and gain 8 Block.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, lose 1 HP and gain 10 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Cruelty",
+    "card_description": "Vulnerable enemies take an additional 25% damage.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Vulnerable enemies take an additional 50% damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Dark Embrace",
+    "card_description": "Whenever a card is Exhausted, draw 1 card.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever a card is Exhausted, draw 1 card.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Demon Form",
+    "card_description": "At the start of your turn, gain 2 Strength.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, gain 3 Strength.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Feed",
+    "card_description": "Deal 10 damage. If Fatal, raise your Max HP by 3. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 12 damage. If Fatal, raise your Max HP by 4. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Fiend Fire",
+    "card_description": "Exhaust your Hand. Deal 7 damage for each card Exhausted. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Exhaust your Hand. Deal 10 damage for each card Exhausted. Exhaust.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Hellraiser",
+    "card_description": "Whenever you draw a card containing \u201cStrike\u201d, it is played against a random enemy.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you draw a card containing \u201cStrike\u201d, it is played against a random enemy.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Impervious",
+    "card_description": "Gain 30 Block. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 40 Block. Exhaust.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Juggernaut",
+    "card_description": "Whenever you gain Block, deal 5 damage to a random enemy.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you gain Block, deal 7 damage to a random enemy.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Mangle",
+    "card_description": "Deal 15 damage. Enemy loses 10 Strength this turn.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 20 damage. Enemy loses 15 Strength this turn.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Offering",
+    "card_description": "Lose 6 HP. Gain @IE @IE. Draw 3 cards. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Lose 6 HP. Gain @IE @IE. Draw 5 cards. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "One-Two Punch",
+    "card_description": "This turn, your next Attack is played an extra time.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "This turn, your next 2 Attacks are played an extra time.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Pact's End",
+    "card_description": "Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 17 damage to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Can only be played if you have 3 or more cards in your Exhaust Pile. Deal 23 damage to ALL enemies.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Primal Force",
+    "card_description": "Transform all Attacks in your Hand into Giant Rock.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Transform all Attacks in your Hand into Giant Rock+.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Pyre",
+    "card_description": "Gain @IE at the start of each turn.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Gain @IE @IE at the start of each turn.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Stoke",
+    "card_description": "Exhaust your Hand. Draw a card for each card Exhausted. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Exhaust your Hand. Draw a card for each card Exhausted. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Tank",
+    "card_description": "Take double damage from enemies. Allies take half damage from enemies.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Take double damage from enemies. Allies take half damage from enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Tear Asunder",
+    "card_description": "Deal 5 damage. Hits an additional time for each time you lost HP this combat.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 7 damage. Hits an additional time for each time you lost HP this combat.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Thrash",
+    "card_description": "Deal 4 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 6 damage twice. Exhaust a random Attack in your Hand and add its damage to this card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Unmovable",
+    "card_description": "The first time you gain Block from a card each turn, double the amount gained.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "The first time you gain Block from a card each turn, double the amount gained.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Break",
+    "card_description": "Deal 20 damage. Apply 5 Vulnerable.",
+    "type": "Attack",
+    "rarity": "Ancient",
+    "upgraded_description": "Deal 25 damage. Apply 7 Vulnerable.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Corruption",
+    "card_description": "Skills cost 0 @IE. Whenever you play a Skill, Exhaust it.",
+    "type": "Power",
+    "rarity": "Ancient",
+    "upgraded_description": "Skills cost 0 @IE. Whenever you play a Skill, Exhaust it.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Clash",
+    "card_description": "Can only be played if every card in your Hand is an Attack. Deal 14 damage.",
+    "type": "Attack",
+    "rarity": "Event",
+    "upgraded_description": "Can only be played if every card in your Hand is an Attack. Deal 18 damage.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Dual Wield",
+    "card_description": "Choose an Attack or Power card. Add a copy of that card into your Hand.",
+    "type": "Skill",
+    "rarity": "Event",
+    "upgraded_description": "Choose an Attack or Power card. Add 2 copies of that card into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  },
+  {
+    "card_name": "Entrench",
+    "card_description": "Double your Block.",
+    "type": "Skill",
+    "rarity": "Event",
+    "upgraded_description": "Double your Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "ironclad"
+  }
+]

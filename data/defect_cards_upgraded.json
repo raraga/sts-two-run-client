@@ -1,0 +1,932 @@
+[
+  {
+    "card_name": "Defend (Defect)",
+    "card_description": "Gain 5 Block.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Gain 8 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Dualcast",
+    "card_description": "Evoke your rightmost Orb twice.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Evoke your rightmost Orb",
+    "energy_cost": "defect",
+    "upgraded_energy_cost": null,
+    "character": null
+  },
+  {
+    "card_name": "twice.",
+    "card_description": "1",
+    "type": "0",
+    "rarity": "defect",
+    "upgraded_description": null,
+    "energy_cost": null,
+    "upgraded_energy_cost": null,
+    "character": null
+  },
+  {
+    "card_name": "Strike (Defect)",
+    "card_description": "Deal 6 damage.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 9 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Zap",
+    "card_description": "Channel 1 Lightning.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Channel 1 Lightning.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Ball Lightning",
+    "card_description": "Deal 7 damage. Channel 1 Lightning.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Channel 1 Lightning.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Barrage",
+    "card_description": "Deal 5 damage for each Channeled Orb.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 7 damage for each Channeled Orb.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Beam Cell",
+    "card_description": "Deal 3 damage. Apply 1 Vulnerable.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 4 damage. Apply 2 Vulnerable.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Boost Away",
+    "card_description": "Gain 6 Block. Add a Dazed into your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 9 Block. Add a Dazed into your Discard Pile.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Charge Battery",
+    "card_description": "Gain 7 Block. Next turn, gain @DE.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 10 Block. Next turn, gain @DE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Claw",
+    "card_description": "Deal 3 damage. Increase the damage of ALL Claw cards by 2 this combat.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 4 damage. Increase the damage of ALL Claw cards by 3 this combat.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Cold Snap",
+    "card_description": "Deal 6 damage. Channel 1 Frost.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 9 damage. Channel 1 Frost.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Compile Driver",
+    "card_description": "Deal 7 damage. Draw 1 card for each unique Orb you have.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Draw 1 card for each unique Orb you have.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Coolheaded",
+    "card_description": "Channel 1 Frost. Draw 1 card.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Channel 1 Frost. Draw 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Focused Strike",
+    "card_description": "Deal 9 damage. Gain 1 Focus this turn.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 11 damage. Gain 2 Focus this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Go for the Eyes",
+    "card_description": "Deal 3 damage. If the enemy intends to attack, apply 1 Weak.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 4 damage. If the enemy intends to attack, apply 2 Weak.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Gunk Up",
+    "card_description": "Deal 4 damage 3 times. Add a Slimed into your Discard Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 5 damage 3 times. Add a Slimed into your Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Hologram",
+    "card_description": "Gain 3 Block. Put a card from your Discard Pile into your Hand. Exhaust.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 5 Block. Put a card from your Discard Pile into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Hotfix",
+    "card_description": "Gain 2 Focus this turn.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 3 Focus this turn.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Leap",
+    "card_description": "Gain 9 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 12 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Lightning Rod",
+    "card_description": "Gain 4 Block. At the start of the next 2 turns, Channel 1 Lightning.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 7 Block. At the start of the next 2 turns, Channel 1 Lightning.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Momentum Strike",
+    "card_description": "Deal 10 damage. Reduce this card's cost to 0 @DE.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 13 damage. Reduce this card's cost to 0 @DE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Sweeping Beam",
+    "card_description": "Deal 6 damage to ALL enemies. Draw 1 card.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 9 damage to ALL enemies. Draw 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "TURBO",
+    "card_description": "Gain @DE @DE. Add a Void into your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain @DE @DE @DE. Add a Void into your Discard Pile.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Uproar",
+    "card_description": "Deal 5 damage twice. Play a random Attack from your Draw Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 7 damage twice. Play a random Attack from your Draw Pile.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Boot Sequence",
+    "card_description": "Innate. Gain 10 Block. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Innate. Gain 13 Block. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Bulk Up",
+    "card_description": "Lose 1 Orb Slot. Gain 2 Strength. Gain 2 Dexterity.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Lose 1 Orb Slot. Gain 3 Strength. Gain 3 Dexterity.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Capacitor",
+    "card_description": "Gain 2 Orb Slots.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 3 Orb Slots.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Chaos",
+    "card_description": "Channel 1 random Orb.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Channel 2 random Orbs.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Chill",
+    "card_description": "Channel 1 Frost for each enemy. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Channel 1 Frost for each enemy.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Compact",
+    "card_description": "Gain 6 Block. Transform all Status cards in your Hand into Fuel.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 7 Block. Transform all Status cards in your Hand into Fuel+.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Darkness",
+    "card_description": "Channel 1 Dark. Trigger the passive ability of all Dark Orbs.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Channel 1 Dark. Trigger the passive ability of all Dark Orbs twice.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Double Energy",
+    "card_description": "Double your Energy. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Double your Energy. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Energy Surge",
+    "card_description": "ALL players gain @DE @DE. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "ALL players gain @DE @DE @DE. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "FTL",
+    "card_description": "Deal 5 damage. If you have played fewer than 3 cards this turn, draw 1 card.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 6 damage. If you have played fewer than 4 cards this turn, draw 1 card.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Feral",
+    "card_description": "The first time you play a 0@DE Attack each turn, return it to your Hand.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "The first time you play a 0@DE Attack each turn, return it to your Hand.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Fight Through",
+    "card_description": "Gain 13 Block. Add 2 Wounds into your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 17 Block. Add 2 Wounds into your Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Fusion",
+    "card_description": "Channel 1 Plasma.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Channel 1 Plasma.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Glacier",
+    "card_description": "Gain 6 Block. Channel 2 Frost.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 9 Block. Channel 2 Frost.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Glasswork",
+    "card_description": "Gain 5 Block. Channel 1 Glass.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 8 Block. Channel 1 Glass.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Hailstorm",
+    "card_description": "At the end of your turn, if you have Frost, deal 6 damage to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the end of your turn, if you have Frost, deal 8 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Iteration",
+    "card_description": "The first time you draw a Status card each turn, draw 2 cards.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "The first time you draw a Status card each turn, draw 3 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Loop",
+    "card_description": "At the start of your turn, trigger the passive ability of your rightmost Orb.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the start of your turn, trigger the passive ability of your rightmost Orb 2 times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Null",
+    "card_description": "Deal 10 damage. Apply 2 Weak. Channel 1 Dark.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 13 damage. Apply 3 Weak. Channel 1 Dark.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Overclock",
+    "card_description": "Draw 2 cards. Add a Burn into your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw 3 cards. Add a Burn into your Discard Pile.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Refract",
+    "card_description": "Deal 9 damage twice. Channel 2 Glass.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 12 damage twice. Channel 2 Glass.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "defect"
+  },
+  {
+    "card_name": "Rip and Tear",
+    "card_description": "Deal 7 damage to a random enemy twice.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage to a random enemy twice.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Rocket Punch",
+    "card_description": "Deal 13 damage. Draw 1 card. When a Status card is created, reduce this card's cost to 0 @DE this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 14 damage. Draw 2 cards. When a Status card is created, reduce this card's cost to 0 @DE this turn.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Scavenge",
+    "card_description": "Exhaust a card. Next turn, gain @DE @DE.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Exhaust a card. Next turn, gain @DE @DE @DE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Scrape",
+    "card_description": "Deal 7 damage. Draw 4 cards. Discard all cards drawn this way that do not cost 0 @DE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 10 damage. Draw 5 cards. Discard all cards drawn this way that do not cost 0 @DE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Shadow Shield",
+    "card_description": "Gain 11 Block. Channel 1 Dark.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 15 Block. Channel 1 Dark.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Skim",
+    "card_description": "Draw 3 cards.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw 4 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Smokestack",
+    "card_description": "Whenever you create a Status, deal 5 damage to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you create a Status, deal 7 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Storm",
+    "card_description": "Whenever you play a Power, Channel 1 Lightning.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you play a Power, Channel 2 Lightning.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Subroutine",
+    "card_description": "Whenever you play a Power, gain @DE.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you play a Power, gain @DE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Sunder",
+    "card_description": "Deal 24 damage. If this kills an enemy, gain @DE @DE @DE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 32 damage. If this kills an enemy, gain @DE @DE @DE.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "defect"
+  },
+  {
+    "card_name": "Synchronize",
+    "card_description": "Gain 2 Focus this turn for each unique Orb you have. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 2 Focus this turn for each unique Orb you have.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Synthesis",
+    "card_description": "Deal 12 damage. The next Power you play costs 0 @DE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 18 damage. The next Power you play costs 0 @DE.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Tempest",
+    "card_description": "Channel X Lightning.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Channel X+1 Lightning.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Tesla Coil",
+    "card_description": "Deal 3 damage. Trigger all Lightning against the enemy.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 6 damage. Trigger all Lightning against the enemy.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Thunder",
+    "card_description": "Whenever you Evoke Lightning, deal 6 damage to each enemy hit.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you Evoke Lightning, deal 8 damage to each enemy hit.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "White Noise",
+    "card_description": "Add a random Power into your Hand. It's free to play this turn. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Add a random Power into your Hand. It's free to play this turn. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Adaptive Strike",
+    "card_description": "Deal 18 damage. Add a 0@DE copy of this card into your Discard Pile.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 23 damage. Add a 0@DE copy of this card into your Discard Pile.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "All for One",
+    "card_description": "Deal 10 damage. Put ALL 0@DE cards from your Discard Pile into your Hand.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 14 damage. Put ALL 0@DE cards from your Discard Pile into your Hand.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Buffer",
+    "card_description": "Prevent the next time you would lose HP.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Prevent the next 2 times you would lose HP.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Consuming Shadow",
+    "card_description": "Channel 2 Dark. At the end of your turn, Evoke your leftmost Orb.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Channel 3 Dark. At the end of your turn, Evoke your leftmost Orb.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Coolant",
+    "card_description": "At the start of your turn, gain 2 Block for each unique Orb you have.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, gain 3 Block for each unique Orb you have.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Creative AI",
+    "card_description": "At the start of your turn, add a random Power into your Hand.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, add a random Power into your Hand.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "defect"
+  },
+  {
+    "card_name": "Defragment",
+    "card_description": "Gain 1 Focus.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 2 Focus.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Echo Form",
+    "card_description": "Ethereal. The first card you play each turn is played an extra time.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "The first card you play each turn is played an extra time.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "defect"
+  },
+  {
+    "card_name": "Flak Cannon",
+    "card_description": "Exhaust ALL your Status cards. Deal 8 damage to a random enemy for each card Exhausted.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Exhaust ALL your Status cards. Deal 11 damage to a random enemy for each card Exhausted.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Genetic Algorithm",
+    "card_description": "Gain 1 Block. Permanently increase this card's Block by 3. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 1 Block. Permanently increase this card's Block by 4. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Helix Drill",
+    "card_description": "Deal 3 damage for each @DE previously spent this turn.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 5 damage for each @DE previously spent this turn.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Hyperbeam",
+    "card_description": "Deal 26 damage to ALL enemies. Lose 3 Focus.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 34 damage to ALL enemies. Lose 3 Focus.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Ice Lance",
+    "card_description": "Deal 19 damage. Channel 3 Frost.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 24 damage. Channel 3 Frost.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "defect"
+  },
+  {
+    "card_name": "Ignition",
+    "card_description": "Another player Channels Plasma. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Another player Channels Plasma.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Machine Learning",
+    "card_description": "At the start of your turn, draw 1 additional card.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. At the start of your turn, draw 1 additional card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Meteor Strike",
+    "card_description": "Deal 24 damage. Channel 3 Plasma.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 30 damage. Channel 3 Plasma.",
+    "energy_cost": "5",
+    "upgraded_energy_cost": "5",
+    "character": "defect"
+  },
+  {
+    "card_name": "Modded",
+    "card_description": "Gain 1 Orb Slot. Draw 1 card. Increase this card's cost by 1.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 1 Orb Slot. Draw 2 cards. Increase this card's cost by 1.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Multi-Cast",
+    "card_description": "Evoke your rightmost Orb X times.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Evoke your rightmost Orb X+1 times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Rainbow",
+    "card_description": "Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Channel 1 Lightning. Channel 1 Frost. Channel 1 Dark.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Reboot",
+    "card_description": "Shuffle ALL your cards into your Draw Pile. Draw 4 cards. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Shuffle ALL your cards into your Draw Pile. Draw 6 cards. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Shatter",
+    "card_description": "Deal 11 damage to ALL enemies. Evoke all of your Orbs.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 15 damage to ALL enemies. Evoke all of your Orbs.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Signal Boost",
+    "card_description": "The next Power you play is played an additional time. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "The next Power you play is played an additional time. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Spinner",
+    "card_description": "At the start of your turn, Channel 1 Glass.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Channel 1 Glass. At the start of your turn, Channel 1 Glass.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Supercritical",
+    "card_description": "Gain 4@DE. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 6@DE. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "defect"
+  },
+  {
+    "card_name": "Trash to Treasure",
+    "card_description": "Whenever you create a Status card, Channel 1 random Orb.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. Whenever you create a Status card, Channel 1 random Orb.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Voltaic",
+    "card_description": "Channel Lightning equal to the Lightning already Channeled this combat. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Channel Lightning equal to the Lightning already Channeled this combat.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "defect"
+  },
+  {
+    "card_name": "Biased Cognition",
+    "card_description": "Gain 4 Focus. At the start of your turn, lose 1 Focus.",
+    "type": "Power",
+    "rarity": "Ancient",
+    "upgraded_description": "Gain 5 Focus. At the start of your turn, lose 1 Focus.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Quadcast",
+    "card_description": "Evoke your rightmost Orb 4 times.",
+    "type": "Skill",
+    "rarity": "Ancient",
+    "upgraded_description": "Evoke your rightmost Orb 4 times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Hello World",
+    "card_description": "At the start of your turn, add a random Common card into your Hand.",
+    "type": "Power",
+    "rarity": "Event",
+    "upgraded_description": "Innate. At the start of your turn, add a random Common card into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Rebound",
+    "card_description": "Deal 9 damage. Put the next card you play this turn on top of your Draw Pile.",
+    "type": "Attack",
+    "rarity": "Event",
+    "upgraded_description": "Deal 12 damage. Put the next card you play this turn on top of your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  },
+  {
+    "card_name": "Stack",
+    "card_description": "Gain Block equal to the number of cards in your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Event",
+    "upgraded_description": "Gain Block equal to the number of cards in your Discard Pile +3.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "defect"
+  }
+]

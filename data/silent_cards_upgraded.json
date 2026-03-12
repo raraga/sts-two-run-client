@@ -1,0 +1,912 @@
+[
+  {
+    "card_name": "Defend (Silent)",
+    "card_description": "Gain 5 Block.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Gain 8 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Neutralize",
+    "card_description": "Deal 3 damage. Apply 1 Weak.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 4 damage. Apply 2 Weak.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Strike (Silent)",
+    "card_description": "Deal 6 damage.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 9 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Survivor",
+    "card_description": "Gain 8 Block. Discard 1 card.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Gain 11 Block. Discard 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Acrobatics",
+    "card_description": "Draw 3 cards. Discard 1 card.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Draw 4 cards. Discard 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Anticipate",
+    "card_description": "Gain 3 Dexterity this turn.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 5 Dexterity this turn.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Backflip",
+    "card_description": "Gain 5 Block. Draw 2 cards.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 8 Block. Draw 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Blade Dance",
+    "card_description": "Add 3 Shivs into your Hand. Exhaust.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Add 4 Shivs into your Hand. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Cloak and Dagger",
+    "card_description": "Gain 6 Block. Add 1 Shiv into your Hand.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 6 Block. Add 2 Shivs into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Dagger Spray",
+    "card_description": "Deal 4 damage to ALL enemies twice.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 6 damage to ALL enemies twice.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Dagger Throw",
+    "card_description": "Deal 9 damage. Draw 1 card. Discard 1 card.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 12 damage. Draw 1 card. Discard 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Deadly Poison",
+    "card_description": "Apply 5 Poison.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Apply 7 Poison.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Deflect",
+    "card_description": "Gain 4 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 7 Block.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Dodge and Roll",
+    "card_description": "Gain 4 Block. Next turn, gain 4 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 6 Block. Next turn, gain 6 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Flick-Flack",
+    "card_description": "Sly. Deal 7 damage to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Sly. Deal 9 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Leading Strike",
+    "card_description": "Deal 7 damage. Add 1 Shiv into your Hand.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Add 1 Shiv into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Piercing Wail",
+    "card_description": "ALL enemies lose 6 Strength this turn. Exhaust.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "ALL enemies lose 8 Strength this turn. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Poisoned Stab",
+    "card_description": "Deal 6 damage. Apply 3 Poison.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 8 damage. Apply 4 Poison.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Prepared",
+    "card_description": "Draw 1 card. Discard 1 card.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Draw 2 cards. Discard 2 cards.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Ricochet",
+    "card_description": "Sly. Deal 3 damage to a random enemy 4 times.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Sly. Deal 3 damage to a random enemy 5 times.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Slice",
+    "card_description": "Deal 6 damage.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 9 damage.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Snakebite",
+    "card_description": "Retain. Apply 7 Poison.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Retain. Apply 10 Poison.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Sucker Punch",
+    "card_description": "Deal 8 damage. Apply 1 Weak.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Apply 2 Weak.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Untouchable",
+    "card_description": "Sly. Gain 9 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Sly. Gain 12 Block.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Accuracy",
+    "card_description": "Shivs deal 4 additional damage.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Shivs deal 6 additional damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Backstab",
+    "card_description": "Innate. Deal 11 damage. Exhaust.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Innate. Deal 15 damage. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Blur",
+    "card_description": "Gain 5 Block. Block is not removed at the start of your next turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 8 Block. Block is not removed at the start of your next turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Bouncing Flask",
+    "card_description": "Apply 3 Poison to a random enemy 3 times.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 3 Poison to a random enemy 4 times.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Bubble Bubble",
+    "card_description": "If the enemy has Poison, apply 9 Poison.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "If the enemy has Poison, apply 12 Poison.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Calculated Gamble",
+    "card_description": "Discard your Hand, then draw that many cards. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Retain. Discard your Hand, then draw that many cards. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Dash",
+    "card_description": "Gain 10 Block. Deal 10 damage.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 13 Block. Deal 13 damage.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Escape Plan",
+    "card_description": "Draw 1 card. If you draw a Skill, gain 3 Block.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw 1 card. If you draw a Skill, gain 5 Block.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Expertise",
+    "card_description": "Draw cards until you have 6 in your Hand.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Draw cards until you have 7 in your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Expose",
+    "card_description": "Remove all Artifact and Block from the enemy. Apply 2 Vulnerable. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Remove all Artifact and Block from the enemy. Apply 3 Vulnerable. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Finisher",
+    "card_description": "Deal 6 damage for each Attack already played this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 8 damage for each Attack already played this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Flanking",
+    "card_description": "The enemy takes double damage from other players this turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "The enemy takes double damage from other players this turn.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Flechettes",
+    "card_description": "Deal 5 damage for each Skill in your Hand.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 7 damage for each Skill in your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Follow Through",
+    "card_description": "Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 Weak to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 8 damage to ALL enemies. If the last card you played this turn was a Skill, apply 2 Weak to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Footwork",
+    "card_description": "Gain 2 Dexterity.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 3 Dexterity.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Hand Trick",
+    "card_description": "Gain 7 Block. Add Sly to a Skill in your Hand this turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 10 Block. Add Sly to a Skill in your Hand this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Haze",
+    "card_description": "Sly. Apply 4 Poison to ALL enemies.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Sly. Apply 6 Poison to ALL enemies.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Hidden Daggers",
+    "card_description": "Discard 2 cards. Add 2 Shivs into your Hand.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Discard 2 cards. Add 2 Shivs+ into your Hand.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Infinite Blades",
+    "card_description": "At the start of your turn, add 1 Shiv into your Hand.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Innate. At the start of your turn, add 1 Shiv into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Leg Sweep",
+    "card_description": "Apply 2 Weak. Gain 11 Block.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 3 Weak. Gain 14 Block.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Memento Mori",
+    "card_description": "Deal 8 damage. Deals 4 additional damage for each card discarded this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 10 damage. Deals 5 additional damage for each card discarded this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Mirage",
+    "card_description": "Gain Block equal to Poison on ALL enemies. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain Block equal to Poison on ALL enemies. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Noxious Fumes",
+    "card_description": "At the start of your turn, apply 2 Poison to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the start of your turn, apply 3 Poison to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Outbreak",
+    "card_description": "Every 3 times you apply Poison, deal 11 damage to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Every 3 times you apply Poison, deal 15 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Phantom Blades",
+    "card_description": "Shivs gain Retain. The first Shiv you play each turn deals 9 additional damage.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Shivs gain Retain. The first Shiv you play each turn deals 12 additional damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Pinpoint",
+    "card_description": "Deal 17 damage. Costs 1 less @SE for each Skill played this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 22 damage. Costs 1 less @SE for each Skill played this turn.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Pounce",
+    "card_description": "Deal 12 damage. The next Skill you play costs 0 @SE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 18 damage. The next Skill you play costs 0 @SE.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Precise Cut",
+    "card_description": "Deal 13 damage. Deals 2 less damage for each other card in your Hand.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 16 damage. Deals 2 less damage for each other card in your Hand.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Predator",
+    "card_description": "Deal 15 damage. Next turn, draw 2 cards.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 20 damage. Next turn, draw 2 cards.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Reflex",
+    "card_description": "Sly. Draw 2 cards.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Sly. Draw 3 cards.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Skewer",
+    "card_description": "Deal 7 damage X times.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 10 damage X times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Speedster",
+    "card_description": "Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you draw a card during your turn, deal 3 damage to ALL enemies.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Strangle",
+    "card_description": "Deal 8 damage. Whenever you play a card this turn, the enemy loses 2 HP.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 10 damage. Whenever you play a card this turn, the enemy loses 3 HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Tactician",
+    "card_description": "Sly. Gain @SE.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Sly. Gain @SE @SE.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Up My Sleeve",
+    "card_description": "Add 3 Shivs into your Hand. Reduce this card's cost by 1.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Add 4 Shivs into your Hand. Reduce this card's cost by 1.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Well-Laid Plans",
+    "card_description": "At the end of your turn, Retain up to 1 card.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the end of your turn, Retain up to 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Abrasive",
+    "card_description": "Sly. Gain 1 Dexterity. Gain 4 Thorns.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Sly. Gain 1 Dexterity. Gain 6 Thorns.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Accelerant",
+    "card_description": "Poison is triggered 1 additional time.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Poison is triggered 2 additional times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Adrenaline",
+    "card_description": "Gain @SE. Draw 2 cards. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain @SE @SE. Draw 2 cards. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Afterimage",
+    "card_description": "Whenever you play a card, gain 1 Block.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. Whenever you play a card, gain 1 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Assassinate",
+    "card_description": "Innate. Deal 10 damage. Apply 1 Vulnerable. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. Deal 13 damage. Apply 2 Vulnerable. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Blade of Ink",
+    "card_description": "This turn, whenever you play an Attack, gain 2 Strength this turn.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "This turn, whenever you play an Attack, gain 3 Strength this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Bullet Time",
+    "card_description": "You cannot draw additional cards this turn. ALL cards in your Hand are free to play this turn.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "You cannot draw additional cards this turn. ALL cards in your Hand are free to play this turn.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Burst",
+    "card_description": "This turn, your next Skill is played an extra time.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "This turn, your next 2 Skills are played an extra time.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Corrosive Wave",
+    "card_description": "Whenever you draw a card this turn, apply 3 Poison to ALL enemies.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you draw a card this turn, apply 4 Poison to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Echoing Slash",
+    "card_description": "Deal 10 damage to ALL enemies. Repeat this effect for each enemy killed.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 13 damage to ALL enemies. Repeat this effect for each enemy killed.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Envenom",
+    "card_description": "Whenever an Attack deals unblocked damage, apply 1 Poison.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever an Attack deals unblocked damage, apply 2 Poison.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Fan of Knives",
+    "card_description": "Shivs now hit ALL enemies. Add 4 Shivs into your Hand.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Shivs now hit ALL enemies. Add 5 Shivs into your Hand.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Grand Finale",
+    "card_description": "Can only be played if there are no cards in your Draw Pile. Deal 50 damage to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Can only be played if there are no cards in your Draw Pile. Deal 60 damage to ALL enemies.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Knife Trap",
+    "card_description": "Play every Shiv in your Exhaust Pile on the enemy.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Upgrade and play every Shiv in your Exhaust Pile on the enemy.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Malaise",
+    "card_description": "Enemy loses X Strength. Apply X Weak. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Enemy loses X+1 Strength. Apply X+1 Weak. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Master Planner",
+    "card_description": "When you play a Skill, it gains Sly.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "When you play a Skill, it gains Sly.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Murder",
+    "card_description": "Deal 1 damage. Deals 1 additional damage for each card drawn this combat.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 1 damage. Deals 1 additional damage for each card drawn this combat.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Nightmare",
+    "card_description": "Choose a card. Next turn, add 3 copies of that card into your Hand. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Choose a card. Next turn, add 3 copies of that card into your Hand. Exhaust.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Serpent Form",
+    "card_description": "Whenever you play a card, deal 4 damage to a random enemy.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you play a card, deal 5 damage to a random enemy.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Shadow Step",
+    "card_description": "Discard your Hand. Next turn, Attacks deal double damage.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Discard your Hand. Next turn, Attacks deal double damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Shadowmeld",
+    "card_description": "Double your Block gain this turn.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Double your Block gain this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Sneaky",
+    "card_description": "Sly. Whenever another player attacks an enemy, gain 1 Block.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Sly. Whenever another player attacks an enemy, gain 2 Block.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Storm of Steel",
+    "card_description": "Discard your Hand. Add 1 Shiv into your Hand for each card discarded.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Discard your Hand. Add 1 Shiv+ into your Hand for each card discarded.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "The Hunt",
+    "card_description": "Deal 10 damage. If Fatal, gain an additional card reward. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 15 damage. If Fatal, gain an additional card reward. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Tools of the Trade",
+    "card_description": "At the start of your turn, draw 1 card and discard 1 card.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, draw 1 card and discard 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Tracking",
+    "card_description": "Weak enemies take double damage from Attacks.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Weak enemies take double damage from Attacks.",
+    "energy_cost": "2",
+    "upgraded_energy_cost": "2",
+    "character": "silent"
+  },
+  {
+    "card_name": "Suppress",
+    "card_description": "Innate. Deal 11 damage. Apply 3 Weak.",
+    "type": "Attack",
+    "rarity": "Ancient",
+    "upgraded_description": "Innate. Deal 17 damage. Apply 5 Weak.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Wraith Form",
+    "card_description": "Gain 2 Intangible. At the start of your turn, lose 1 Dexterity.",
+    "type": "Power",
+    "rarity": "Ancient",
+    "upgraded_description": "Gain 3 Intangible. At the start of your turn, lose 1 Dexterity.",
+    "energy_cost": "3",
+    "upgraded_energy_cost": "3",
+    "character": "silent"
+  },
+  {
+    "card_name": "Caltrops",
+    "card_description": "Whenever you are attacked, deal 3 damage back.",
+    "type": "Power",
+    "rarity": "Event",
+    "upgraded_description": "Whenever you are attacked, deal 5 damage back.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "silent"
+  },
+  {
+    "card_name": "Distraction",
+    "card_description": "Add a random Skill into your Hand. It's free to play this turn. Exhaust.",
+    "type": "Skill",
+    "rarity": "Event",
+    "upgraded_description": "Add a random Skill into your Hand. It's free to play this turn. Exhaust.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  },
+  {
+    "card_name": "Outmaneuver",
+    "card_description": "Next turn, gain @SE @SE.",
+    "type": "Skill",
+    "rarity": "Event",
+    "upgraded_description": "Next turn, gain @SE @SE @SE.",
+    "energy_cost": "0",
+    "upgraded_energy_cost": "0",
+    "character": "silent"
+  }
+]

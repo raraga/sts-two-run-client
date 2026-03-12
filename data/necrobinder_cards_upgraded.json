@@ -1,0 +1,882 @@
+[
+  {
+    "card_name": "Bodyguard",
+    "card_description": "Summon 5.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Summon 7.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Defend (Necrobinder)",
+    "card_description": "Gain 5 Block.",
+    "type": "Skill",
+    "rarity": "Basic",
+    "upgraded_description": "Gain 8 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Strike (Necrobinder)",
+    "card_description": "Deal 6 damage.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Deal 9 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Unleash",
+    "card_description": "Osty deals 6 damage. Deals additional damage equal to Osty's current HP.",
+    "type": "Attack",
+    "rarity": "Basic",
+    "upgraded_description": "Osty deals 9 damage. Deals additional damage equal to Osty's current HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Afterlife",
+    "card_description": "Summon 6. Exhaust.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Summon 9. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Blight Strike",
+    "card_description": "Deal 8 damage. Apply Doom equal to damage dealt.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 10 damage. Apply Doom equal to damage dealt.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Defile",
+    "card_description": "Ethereal. Deal 13 damage.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Ethereal. Deal 17 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Defy",
+    "card_description": "Ethereal. Gain 6 Block. Apply 1 Weak.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Ethereal. Gain 7 Block. Apply 2 Weak.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Drain Power",
+    "card_description": "Deal 10 damage. Upgrade 2 random cards in your Discard Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 12 damage. Upgrade 3 random cards in your Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Fear",
+    "card_description": "Ethereal. Deal 7 damage. Apply 1 Vulnerable.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Ethereal. Deal 8 damage. Apply 2 Vulnerable.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Flatten",
+    "card_description": "Osty deals 12 damage. This card costs 0 @NE if Osty has attacked this turn.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Osty deals 16 damage. This card costs 0 @NE if Osty has attacked this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Grave Warden",
+    "card_description": "Gain 8 Block. Add a Soul into your Draw Pile.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 10 Block. Add a Soul+ into your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Graveblast",
+    "card_description": "Deal 4 damage. Put a card from your Discard Pile into your Hand. Exhaust.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 6 damage. Put a card from your Discard Pile into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Invoke",
+    "card_description": "Next turn, Summon 2 and gain @NE @NE.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Next turn, Summon 3 and gain @NE @NE @NE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Negative Pulse",
+    "card_description": "Gain 5 Block. Apply 7 Doom to ALL enemies.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Gain 6 Block. Apply 11 Doom to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Poke",
+    "card_description": "Osty deals 6 damage.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Osty deals 9 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Pull Aggro",
+    "card_description": "Summon 4. Gain 7 Block.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Summon 5. Gain 9 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Reap",
+    "card_description": "Retain. Deal 27 damage.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Retain. Deal 33 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Reave",
+    "card_description": "Deal 9 damage. Add a Soul into your Draw Pile.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 11 damage. Add a Soul+ into your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Scourge",
+    "card_description": "Apply 13 Doom. Draw 1 card.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Apply 16 Doom. Draw 2 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sculpting Strike",
+    "card_description": "Deal 8 damage. Add Ethereal to a card in your Hand.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Deal 11 damage. Add Ethereal to a card in your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Snap",
+    "card_description": "Osty deals 7 damage. Add Retain to a card in your Hand.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Osty deals 10 damage. Add Retain to a card in your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sow",
+    "card_description": "Retain. Deal 8 damage to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Common",
+    "upgraded_description": "Retain. Deal 11 damage to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Wisp",
+    "card_description": "Gain @NE. Exhaust.",
+    "type": "Skill",
+    "rarity": "Common",
+    "upgraded_description": "Retain. Gain @NE. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Bone Shards",
+    "card_description": "If Osty is alive, he deals 9 damage to ALL enemies and you gain 9 Block. Osty dies.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "If Osty is alive, he deals 12 damage to ALL enemies and you gain 12 Block. Osty dies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Borrowed Time",
+    "card_description": "Apply 3 Doom to yourself. Gain @NE.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 3 Doom to yourself. Gain @NE @NE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Bury",
+    "card_description": "Deal 52 damage.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 63 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Calcify",
+    "card_description": "Osty's attacks deal 4 additional damage.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty's attacks deal 6 additional damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Capture Spirit",
+    "card_description": "Enemy loses 3 HP. Add 3 Souls into your Draw Pile.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Enemy loses 4 HP. Add 4 Souls into your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Cleanse",
+    "card_description": "Summon 3. Exhaust 1 card from your Draw Pile.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Summon 5. Exhaust 1 card from your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Countdown",
+    "card_description": "At the start of your turn, apply 6 Doom to a random enemy.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "At the start of your turn, apply 9 Doom to a random enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Danse Macabre",
+    "card_description": "Whenever you play a card that costs @NE @NE or more, gain 3 Block.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you play a card that costs @NE @NE or more, gain 4 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Death March",
+    "card_description": "Deal 8 damage. Deals 3 additional damage for each card drawn during your turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. Deals 4 additional damage for each card drawn during your turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Death's Door",
+    "card_description": "Gain 6 Block. If you applied Doom this turn, gain Block 2 additional times.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 7 Block. If you applied Doom this turn, gain Block 2 additional times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Deathbringer",
+    "card_description": "Apply 21 Doom and 1 Weak to ALL enemies.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 26 Doom and 1 Weak to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Debilitate",
+    "card_description": "Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 9 damage. Vulnerable and Weak are twice as effective against the enemy for the next 4 turns.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Delay",
+    "card_description": "Gain 11 Block. Next turn, gain @NE.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 13 Block. Next turn, gain @NE @NE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Dirge",
+    "card_description": "Summon 3 X times. Add X Souls into your Draw Pile.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Summon 4 X times. Add X Souls+ into your Draw Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Dredge",
+    "card_description": "[etain. ]Put 3 cards from your Discard Pile into your Hand. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "[etain. ]Put 3 cards from your Discard Pile into your Hand. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Enfeebling Touch",
+    "card_description": "Ethereal. Enemy loses 8 Strength this turn.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Ethereal. Enemy loses 11 Strength this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Fetch",
+    "card_description": "Osty deals 3 damage. If this is the first time this card has been played this turn, draw 1 card.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty deals 6 damage. If this is the first time this card has been played this turn, draw 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Friendship",
+    "card_description": "Lose 2 Strength. Gain @NE at the start of each turn.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Lose 1 Strength. Gain @NE at the start of each turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Haunt",
+    "card_description": "Whenever you play a Soul, a random enemy loses 6 HP.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you play a Soul, a random enemy loses 8 HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "High Five",
+    "card_description": "Osty deals 11 damage and applies 2 Vulnerable to ALL enemies.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty deals 13 damage and applies 3 Vulnerable to ALL enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Legion of Bone",
+    "card_description": "ALL players Summon 6. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "ALL players Summon 8. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Lethality",
+    "card_description": "Ethereal. The first Attack each turn deals 50% additional damage.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Ethereal. The first Attack each turn deals 75% additional damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Melancholy",
+    "card_description": "Gain 13 Block. Reduce this card's cost by @NE whenever ANYONE dies.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Gain 17 Block. Reduce this card's cost by @NE whenever ANYONE dies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "No Escape",
+    "card_description": "Apply 10 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 15 Doom, plus an additional 5 Doom for every 10 Doom already on this enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Pagestorm",
+    "card_description": "Whenever you draw an Ethereal card, draw 1 card.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you draw an Ethereal card, draw 1 card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Parse",
+    "card_description": "Ethereal. Draw 3 cards.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Ethereal. Draw 4 cards.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Pull from Below",
+    "card_description": "Deal 5 damage for each Ethereal card played this combat.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 7 damage for each Ethereal card played this combat.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Putrefy",
+    "card_description": "Apply 2 Weak. Apply 2 Vulnerable. Exhaust.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Apply 3 Weak. Apply 3 Vulnerable. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Rattle",
+    "card_description": "Osty deals 7 damage. Hits an additional time for each other time he has attacked this turn.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty deals 9 damage. Hits an additional time for each other time he has attacked this turn.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Right Hand Hand",
+    "card_description": "Osty deals 4 damage. Whenever you play a card that costs @NE @NE or more, return this to your Hand from the Discard Pile.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty deals 6 damage. Whenever you play a card that costs @NE @NE or more, return this to your Hand from the Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Severance",
+    "card_description": "Deal 13 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 18 damage. Add a Soul into your Draw Pile, Hand, and Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Shroud",
+    "card_description": "Whenever you apply Doom, gain 2 Block.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you apply Doom, gain 3 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sic 'Em",
+    "card_description": "Osty deals 5 damage. Whenever Osty hits this enemy this turn, Summon 2.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Osty deals 6 damage. Whenever Osty hits this enemy this turn, Summon 3.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sleight of Flesh",
+    "card_description": "Whenever you apply a debuff to an enemy, they take 9 damage.",
+    "type": "Power",
+    "rarity": "Uncommon",
+    "upgraded_description": "Whenever you apply a debuff to an enemy, they take 13 damage.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Spur",
+    "card_description": "Retain. Summon 3. Osty heals 5 HP.",
+    "type": "Skill",
+    "rarity": "Uncommon",
+    "upgraded_description": "Retain. Summon 5. Osty heals 7 HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Veilpiercer",
+    "card_description": "Deal 10 damage. The next Ethereal card you play costs 0 @NE.",
+    "type": "Attack",
+    "rarity": "Uncommon",
+    "upgraded_description": "Deal 13 damage. The next Ethereal card you play costs 0 @NE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Banshee's Cry",
+    "card_description": "Deal 33 damage to ALL enemies. Costs @NE @NE less for each Ethereal card played this combat.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 39 damage to ALL enemies. Costs @NE @NE less for each Ethereal card played this combat.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Call of the Void",
+    "card_description": "At the start of your turn, add 1 random card into your Hand. It gains Ethereal.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Innate. At the start of your turn, add 1 random card into your Hand. It gains Ethereal.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Demesne",
+    "card_description": "Ethereal. At the start of your turn, gain @NE and draw 1 additional card.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Ethereal. At the start of your turn, gain @NE and draw 1 additional card.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Devour Life",
+    "card_description": "Whenever you play a Soul, Summon 1.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you play a Soul, Summon 2.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Eidolon",
+    "card_description": "Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Exhaust your Hand. If 9 cards were Exhausted this way, gain 1 Intangible.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "End of Days",
+    "card_description": "Apply 29 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Apply 37 Doom to ALL enemies. Kill enemies with at least as much Doom as HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Eradicate",
+    "card_description": "Retain. Deal 11 damage X times.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Retain. Deal 14 damage X times.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Glimpse Beyond",
+    "card_description": "ALL players add 3 Souls into their Draw Pile. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "ALL players add 4 Souls into their Draw Pile. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Hang",
+    "card_description": "Deal 10 damage. Double the damage ALL Hang cards deal to this enemy.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 13 damage. Double the damage ALL Hang cards deal to this enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Misery",
+    "card_description": "Deal 7 damage. Apply any debuffs on the enemy to ALL other enemies.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Retain. Deal 9 damage. Apply any debuffs on the enemy to ALL other enemies.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Necro Mastery",
+    "card_description": "Summon 5. Whenever Osty loses HP, ALL enemies lose that much HP as well.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Summon 8. Whenever Osty loses HP, ALL enemies lose that much HP as well.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Neurosurge",
+    "card_description": "Gain @NE @NE @NE. Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 4@NE. Draw 2 cards. At the start of your turn, apply 3 Doom to yourself.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Oblivion",
+    "card_description": "Whenever you play a card this turn, apply 3 Doom to the enemy.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you play a card this turn, apply 4 Doom to the enemy.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Reanimate",
+    "card_description": "Summon 20. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Summon 25. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Reaper Form",
+    "card_description": "Whenever Attacks deal damage, they also apply that much Doom.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Retain. Whenever Attacks deal damage, they also apply that much Doom.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sacrifice",
+    "card_description": "Retain. If Osty is alive, he dies and you gain Block equal to double his Max HP.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Retain. If Osty is alive, he dies and you gain Block equal to double his Max HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Seance",
+    "card_description": "Ethereal. Transform a card in your Draw Pile into Soul.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Ethereal. Transform a card in your Draw Pile into Soul+.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Sentry Mode",
+    "card_description": "At the start of your turn, add 1 Sweeping Gaze into your Hand.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "At the start of your turn, add 1 Sweeping Gaze into your Hand.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Shared Fate",
+    "card_description": "Lose 2 Strength. Enemy loses 2 Strength. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Lose 2 Strength. Enemy loses 3 Strength. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Soul Storm",
+    "card_description": "Deal 9 damage. Deals 2 additional damage for each Soul in your Exhaust Pile.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 9 damage. Deals 3 additional damage for each Soul in your Exhaust Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Spirit of Ash",
+    "card_description": "Whenever you play an Ethereal card, gain 4 Block.",
+    "type": "Power",
+    "rarity": "Rare",
+    "upgraded_description": "Whenever you play an Ethereal card, gain 5 Block.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Squeeze",
+    "card_description": "Osty deals 25 damage. Deals 5 additional damage for ALL your other Osty Attacks.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Osty deals 30 damage. Deals 6 additional damage for ALL your other Osty Attacks.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "The Scythe",
+    "card_description": "Deal 13 damage. Permanently increase this card's damage by 3. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Deal 13 damage. Permanently increase this card's damage by 4. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Time's Up",
+    "card_description": "Deal damage equal to the enemy's Doom. Exhaust.",
+    "type": "Attack",
+    "rarity": "Rare",
+    "upgraded_description": "Retain. Deal damage equal to the enemy's Doom. Exhaust.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Transfigure",
+    "card_description": "Add Replay to a card in your Hand. It costs an extra @NE. Exhaust.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Add Replay to a card in your Hand. It costs an extra @NE.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Undeath",
+    "card_description": "Gain 7 Block. Add a copy of this card into your Discard Pile.",
+    "type": "Skill",
+    "rarity": "Rare",
+    "upgraded_description": "Gain 9 Block. Add a copy of this card into your Discard Pile.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Forbidden Grimoire",
+    "card_description": "At the end of combat, you may remove a card from your Deck. Eternal.",
+    "type": "Power",
+    "rarity": "Ancient",
+    "upgraded_description": "At the end of combat, you may remove a card from your Deck. Eternal.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  },
+  {
+    "card_name": "Protector",
+    "card_description": "Osty deals 10 damage. Deals additional damage equal to Osty's Max HP.",
+    "type": "Attack",
+    "rarity": "Ancient",
+    "upgraded_description": "Osty deals 15 damage. Deals additional damage equal to Osty's Max HP.",
+    "energy_cost": "1",
+    "upgraded_energy_cost": "1",
+    "character": "necrobinder"
+  }
+]
