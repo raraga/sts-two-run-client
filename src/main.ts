@@ -2,5 +2,11 @@ import './assets/main.css'
 
 import { createApp } from 'vue'
 import App from './App.vue'
+import { initDatabase } from './services/database'
 
-createApp(App).mount('#app')
+async function bootstrap() {
+  await initDatabase()
+  createApp(App).mount('#app')
+}
+
+bootstrap()

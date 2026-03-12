@@ -1,6 +1,23 @@
 <script setup lang="ts">
+import { onMounted, ref } from 'vue'
+import { useCards } from './composables/useCards'
+import { useRelics } from './composables/useRelics'
+import type { Card, Relic } from './types/database'
 import data from '../data/defect-first-victory.json'
-import defectCardData from '../data/defect_cards_upgraded.json'
+
+const { loadAll, byCharacter } = useCards()
+const { byCharacter: relicsByCharacter } = useRelics()
+
+const allCards = ref<Card[]>([])
+const allRelics = ref<Relic[]>([])
+const characterCards = ref<Card[]>([])
+const characterRelics = ref<Relic[]>([])
+
+onMounted(async () => {
+  allCards.value = await loadAll()
+  characterCards.value = byCharacter('ironclad')
+  characterRelics.value = relicsByCharacter('Ironclad')
+})
 
 const character = data.players[0]?.character?.split('.')[1]
 const totalSeconds = data.start_time
@@ -74,6 +91,7 @@ const maxHp = lastMapPlayed?.player_stats[0]?.max_hp
     </div>
   </div>
 
+  {{ allRelics }}
 </template>
 
 <style>
