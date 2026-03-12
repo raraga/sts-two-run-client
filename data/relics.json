@@ -1,0 +1,2018 @@
+[
+  {
+    "name": "Black Blood",
+    "description": "At the end of combat, heal 12 HP.",
+    "rarity": "Starter",
+    "character": "Ironclad",
+    "gameReference": "RELIC.BLACK_BLOOD"
+  },
+  {
+    "name": "Burning Blood",
+    "description": "At the end of combat, heal 6 HP.",
+    "rarity": "Starter",
+    "character": "Ironclad",
+    "gameReference": "RELIC.BURNING_BLOOD"
+  },
+  {
+    "name": "Ring of the Drake",
+    "description": "At the start of your first 3 turns, draw 2 additional cards.",
+    "rarity": "Starter",
+    "character": "Silent",
+    "gameReference": "RELIC.RING_OF_THE_DRAKE"
+  },
+  {
+    "name": "Ring of the Snake",
+    "description": "At the start of each combat, draw 2 additional cards.",
+    "rarity": "Starter",
+    "character": "Silent",
+    "gameReference": "RELIC.RING_OF_THE_SNAKE"
+  },
+  {
+    "name": "Divine Destiny",
+    "description": "At the start of each combat, gain 3 Stars.",
+    "rarity": "Starter",
+    "character": "Regent",
+    "gameReference": "RELIC.DIVINE_DESTINY"
+  },
+  {
+    "name": "Divine Right",
+    "description": "At the start of each combat, gain 3 Stars.",
+    "rarity": "Starter",
+    "character": "Regent",
+    "gameReference": "RELIC.DIVINE_RIGHT"
+  },
+  {
+    "name": "Bound Phylactery",
+    "description": "At the start of your turn, Summon 1.",
+    "rarity": "Starter",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.BOUND_PHYLACTERY"
+  },
+  {
+    "name": "Phylactery Unbound",
+    "description": "At the start of each combat, Summon 5. At the start of your turn, Summon 2.",
+    "rarity": "Starter",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.PHYLACTERY_UNBOUND"
+  },
+  {
+    "name": "Cracked Core",
+    "description": "At the start of each combat, Channel 1 Lightning.",
+    "rarity": "Starter",
+    "character": "Defect",
+    "gameReference": "RELIC.CRACKED_CORE"
+  },
+  {
+    "name": "Infused Core",
+    "description": "At the start of each combat, Channel 3 Lightning.",
+    "rarity": "Starter",
+    "character": "Defect",
+    "gameReference": "RELIC.INFUSED_CORE"
+  },
+  {
+    "name": "Amethyst Aubergine",
+    "description": "Enemies drop 10 additional gold.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.AMETHYST_AUBERGINE"
+  },
+  {
+    "name": "Anchor",
+    "description": "Start each combat with 10 Block.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.ANCHOR"
+  },
+  {
+    "name": "Bag of Preparation",
+    "description": "At the start of each combat, draw 2 additional cards.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.BAG_OF_PREPARATION"
+  },
+  {
+    "name": "Blood Vial",
+    "description": "At the start of each combat, heal 2 HP.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.BLOOD_VIAL"
+  },
+  {
+    "name": "Book of Five Rings",
+    "description": "Every 5 cards you add to your Deck, heal 15 HP.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.BOOK_OF_FIVE_RINGS"
+  },
+  {
+    "name": "Bronze Scales",
+    "description": "Start each combat with 3 Thorns.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.BRONZE_SCALES"
+  },
+  {
+    "name": "Centennial Puzzle",
+    "description": "The first time you lose HP each combat, draw 3 cards.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.CENTENNIAL_PUZZLE"
+  },
+  {
+    "name": "Festive Popper",
+    "description": "At the start of each combat, deal 9 damage to ALL enemies.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.FESTIVE_POPPER"
+  },
+  {
+    "name": "Gorget",
+    "description": "At the start of each combat, gain 4 Plating.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.GORGET"
+  },
+  {
+    "name": "Happy Flower",
+    "description": "Every 3 turns, gain 1 Energy.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.HAPPY_FLOWER"
+  },
+  {
+    "name": "Juzu Bracelet",
+    "description": "Regular enemy combats are no longer encountered in ? rooms.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.JUZU_BRACELET"
+  },
+  {
+    "name": "Lantern",
+    "description": "Start each combat with an additional 1 Energy.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.LANTERN"
+  },
+  {
+    "name": "Meal Ticket",
+    "description": "Whenever you enter a shop room, heal 15 HP.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.MEAL_TICKET"
+  },
+  {
+    "name": "Oddly Smooth Stone",
+    "description": "Start each combat with 1 Dexterity.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.ODDLY_SMOOTH_STONE"
+  },
+  {
+    "name": "Pendulum",
+    "description": "Whenever you shuffle your Draw Pile, draw a card.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.PENDULUM"
+  },
+  {
+    "name": "Permafrost",
+    "description": "The first time you play a Power each combat, gain 6 Block.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.PERMAFROST"
+  },
+  {
+    "name": "Potion Belt",
+    "description": "Upon pickup, gain 2 potion slots.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.POTION_BELT"
+  },
+  {
+    "name": "Regal Pillow",
+    "description": "Whenever you Rest, heal an additional 15 HP.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.REGAL_PILLOW"
+  },
+  {
+    "name": "Strawberry",
+    "description": "Upon pickup, raise your Max HP by 7.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.STRAWBERRY"
+  },
+  {
+    "name": "Strike Dummy",
+    "description": "Cards containing \"Strike\" deal 3 additional damage.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.STRIKE_DUMMY"
+  },
+  {
+    "name": "Tiny Mailbox",
+    "description": "Whenever you Rest, procure a random potion.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.TINY_MAILBOX"
+  },
+  {
+    "name": "Vajra",
+    "description": "Start each combat with 1 Strength.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.VAJRA"
+  },
+  {
+    "name": "Venerable Tea Set",
+    "description": "Whenever you enter a Rest Site, start the next combat with an additional 2 Energy.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.VENERABLE_TEA_SET"
+  },
+  {
+    "name": "War Paint",
+    "description": "Upon pickup, Upgrade 2 random Skills.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.WAR_PAINT"
+  },
+  {
+    "name": "Whetstone",
+    "description": "Upon pickup, Upgrade 2 random Attacks.",
+    "rarity": "Common",
+    "character": "Any",
+    "gameReference": "RELIC.WHETSTONE"
+  },
+  {
+    "name": "Red Skull",
+    "description": "While your HP is at or below 50%, you have 3 additional Strength.",
+    "rarity": "Common",
+    "character": "Ironclad",
+    "gameReference": "RELIC.RED_SKULL"
+  },
+  {
+    "name": "Snecko Skull",
+    "description": "Whenever you apply Poison, apply an additional 1 Poison.",
+    "rarity": "Common",
+    "character": "Silent",
+    "gameReference": "RELIC.SNECKO_SKULL"
+  },
+  {
+    "name": "Fencing Manual",
+    "description": "At the start of each combat, Forge 10.",
+    "rarity": "Common",
+    "character": "Regent",
+    "gameReference": "RELIC.FENCING_MANUAL"
+  },
+  {
+    "name": "Bone Flute",
+    "description": "Whenever Osty attacks, gain 2 Block.",
+    "rarity": "Common",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.BONE_FLUTE"
+  },
+  {
+    "name": "Data Disk",
+    "description": "Start each combat with 1 Focus.",
+    "rarity": "Common",
+    "character": "Defect",
+    "gameReference": "RELIC.DATA_DISK"
+  },
+  {
+    "name": "Akabeko",
+    "description": "At the start of each combat, gain 8 Vigor.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.AKABEKO"
+  },
+  {
+    "name": "Bag of Marbles",
+    "description": "At the start of each combat, apply 1 Vulnerable to ALL enemies.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.BAG_OF_MARBLES"
+  },
+  {
+    "name": "Bellows",
+    "description": "The first Hand you draw each combat is Upgraded.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.BELLOWS"
+  },
+  {
+    "name": "Bowler Hat",
+    "description": "Gain 20% additional gold.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.BOWLER_HAT"
+  },
+  {
+    "name": "Candelabra",
+    "description": "At the start of your 2nd turn, gain 2 Energy.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.CANDELABRA"
+  },
+  {
+    "name": "Eternal Feather",
+    "description": "For every 5 cards in your Deck, heal 3 HP whenever you enter a Rest Site.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.ETERNAL_FEATHER"
+  },
+  {
+    "name": "Gremlin Horn",
+    "description": "Whenever an enemy dies, gain 1 Energy and draw 1 card.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.GREMLIN_HORN"
+  },
+  {
+    "name": "Horn Cleat",
+    "description": "At the start of your 2nd turn, gain 14 Block.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.HORN_CLEAT"
+  },
+  {
+    "name": "Joss Paper",
+    "description": "Every 5 times you Exhaust a card, draw 1 card.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.JOSS_PAPER"
+  },
+  {
+    "name": "Kusarigama",
+    "description": "Every time you play 3 Attacks in a single turn, deal 6 damage to a random enemy.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.KUSARIGAMA"
+  },
+  {
+    "name": "Letter Opener",
+    "description": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.LETTER_OPENER"
+  },
+  {
+    "name": "Lucky Fysh",
+    "description": "Whenever you add a card to your Deck, gain 15 gold.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.LUCKY_FYSH"
+  },
+  {
+    "name": "Mercury Hourglass",
+    "description": "At the start of your turn, deal 3 damage to ALL enemies.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.MERCURY_HOURGLASS"
+  },
+  {
+    "name": "Miniature Cannon",
+    "description": "Upgraded Attacks deal 3 additional damage.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.MINIATURE_CANNON"
+  },
+  {
+    "name": "Nunchaku",
+    "description": "Every time you play 10 Attacks, gain 1 Energy.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.NUNCHAKU"
+  },
+  {
+    "name": "Orichalcum",
+    "description": "If you end your turn without Block, gain 6 Block.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.ORICHALCUM"
+  },
+  {
+    "name": "Ornamental Fan",
+    "description": "Every time you play 3 Attacks in a single turn, gain 4 Block.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.ORNAMENTAL_FAN"
+  },
+  {
+    "name": "Pantograph",
+    "description": "At the start of each Boss combat, heal 25 HP.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PANTOGRAPH"
+  },
+  {
+    "name": "Parrying Shield",
+    "description": "If you end a turn with at least 10 Block, deal 6 damage to a random enemy.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PARRYING_SHIELD"
+  },
+  {
+    "name": "Pear",
+    "description": "Upon pickup, raise your Max HP by 10.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PEAR"
+  },
+  {
+    "name": "Pen Nib",
+    "description": "Every 10th Attack you play deals double damage.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PEN_NIB"
+  },
+  {
+    "name": "Petrified Toad",
+    "description": "At the start of each combat, procure a Potion-Shaped Rock.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PETRIFIED_TOAD"
+  },
+  {
+    "name": "Planisphere",
+    "description": "Whenever you enter a ? room, heal 4 HP.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.PLANISPHERE"
+  },
+  {
+    "name": "Red Mask",
+    "description": "At the start of each combat, apply 1 Weak to ALL enemies.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.RED_MASK"
+  },
+  {
+    "name": "Reptile Trinket",
+    "description": "Whenever you use a potion, gain 3 Strength this turn.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.REPTILE_TRINKET"
+  },
+  {
+    "name": "Ripple Basin",
+    "description": "If you did not play any Attacks during your turn, gain 4 Block.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.RIPPLE_BASIN"
+  },
+  {
+    "name": "Sparkling Rouge",
+    "description": "At the start of your 3rd turn, gain 1 Strength and 1 Dexterity.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.SPARKLING_ROUGE"
+  },
+  {
+    "name": "Stone Cracker",
+    "description": "At the start of Boss combats, Upgrade 3 random cards in your Draw Pile for the rest of combat.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.STONE_CRACKER"
+  },
+  {
+    "name": "Tuning Fork",
+    "description": "Every time you play 10 Skills, gain 7 Block.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.TUNING_FORK"
+  },
+  {
+    "name": "Vambrace",
+    "description": "The first time you gain Block from a card each combat, double the amount gained.",
+    "rarity": "Uncommon",
+    "character": "Any",
+    "gameReference": "RELIC.VAMBRACE"
+  },
+  {
+    "name": "Paper Phrog",
+    "description": "Enemies with Vulnerable take 75% more damage rather than 50%.",
+    "rarity": "Uncommon",
+    "character": "Ironclad",
+    "gameReference": "RELIC.PAPER_PHROG"
+  },
+  {
+    "name": "Self-Forming Clay",
+    "description": "Whenever you lose HP in combat, gain 3 Block next turn.",
+    "rarity": "Uncommon",
+    "character": "Ironclad",
+    "gameReference": "RELIC.SELF-FORMING_CLAY"
+  },
+  {
+    "name": "Tingsha",
+    "description": "Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.",
+    "rarity": "Uncommon",
+    "character": "Silent",
+    "gameReference": "RELIC.TINGSHA"
+  },
+  {
+    "name": "Twisted Funnel",
+    "description": "At the start of each combat, apply 4 Poison to ALL enemies.",
+    "rarity": "Uncommon",
+    "character": "Silent",
+    "gameReference": "RELIC.TWISTED_FUNNEL"
+  },
+  {
+    "name": "Galactic Dust",
+    "description": "For every 10 Stars spent, gain 10 Block.",
+    "rarity": "Uncommon",
+    "character": "Regent",
+    "gameReference": "RELIC.GALACTIC_DUST"
+  },
+  {
+    "name": "Regalite",
+    "description": "Whenever you create a Colorless card, gain 2 Block.",
+    "rarity": "Uncommon",
+    "character": "Regent",
+    "gameReference": "RELIC.REGALITE"
+  },
+  {
+    "name": "Book Repair Knife",
+    "description": "Whenever a non-Minion enemy dies to Doom, heal 3 HP.",
+    "rarity": "Uncommon",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.BOOK_REPAIR_KNIFE"
+  },
+  {
+    "name": "Funerary Mask",
+    "description": "At the start of each combat, add 3 Souls into your Draw Pile.",
+    "rarity": "Uncommon",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.FUNERARY_MASK"
+  },
+  {
+    "name": "Gold-Plated Cables",
+    "description": "Your rightmost Orb triggers its passive an additional time.",
+    "rarity": "Uncommon",
+    "character": "Defect",
+    "gameReference": "RELIC.GOLD-PLATED_CABLES"
+  },
+  {
+    "name": "Symbiotic Virus",
+    "description": "At the start of each combat, Channel 1 Dark.",
+    "rarity": "Uncommon",
+    "character": "Defect",
+    "gameReference": "RELIC.SYMBIOTIC_VIRUS"
+  },
+  {
+    "name": "Art of War",
+    "description": "If you do not play any Attacks during your turn, gain an additional Energy next turn.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.ART_OF_WAR"
+  },
+  {
+    "name": "Beating Remnant",
+    "description": "You cannot lose more than 20 HP in a single turn.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.BEATING_REMNANT"
+  },
+  {
+    "name": "Captain's Wheel",
+    "description": "At the start of your 3rd turn, gain 18 Block.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.CAPTAIN'S_WHEEL"
+  },
+  {
+    "name": "Chandelier",
+    "description": "At the start of your 3rd turn, gain 3 Energy.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.CHANDELIER"
+  },
+  {
+    "name": "Cloak Clasp",
+    "description": "At the end of your turn, gain 1 Block for each card in your Hand.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.CLOAK_CLASP"
+  },
+  {
+    "name": "Frozen Egg",
+    "description": "Whenever you add a Power into your Deck, Upgrade it.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.FROZEN_EGG"
+  },
+  {
+    "name": "Gambling Chip",
+    "description": "At the start of each combat, discard any number of cards then draw that many.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.GAMBLING_CHIP"
+  },
+  {
+    "name": "Game Piece",
+    "description": "Whenever you play a Power, draw 1 card.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.GAME_PIECE"
+  },
+  {
+    "name": "Girya",
+    "description": "You can now gain Strength at Rest Sites. (3 times max)",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.GIRYA"
+  },
+  {
+    "name": "Ice Cream",
+    "description": "Energy is now conserved between turns.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.ICE_CREAM"
+  },
+  {
+    "name": "Intimidating Helmet",
+    "description": "Whenever you play a card that costs 2 Energy or more, gain 4 Block.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.INTIMIDATING_HELMET"
+  },
+  {
+    "name": "Kunai",
+    "description": "Every time you play 3 Attacks in a single turn, gain 1 Dexterity.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.KUNAI"
+  },
+  {
+    "name": "Lasting Candy",
+    "description": "Every other combat, your card rewards gain an additional Power.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.LASTING_CANDY"
+  },
+  {
+    "name": "Lizard Tail",
+    "description": "When you would die, heal to 50% of your Max HP instead (works once).",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.LIZARD_TAIL"
+  },
+  {
+    "name": "Mango",
+    "description": "Upon pickup, raise your Max HP by 14.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.MANGO"
+  },
+  {
+    "name": "Meat on the Bone",
+    "description": "If your HP is at or below 50% at the end of combat, heal 12 HP.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.MEAT_ON_THE_BONE"
+  },
+  {
+    "name": "Molten Egg",
+    "description": "Whenever you add an Attack card to your Deck, Upgrade it.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.MOLTEN_EGG"
+  },
+  {
+    "name": "Mummified Hand",
+    "description": "Whenever you play a Power, a random card in your Hand is free to play that turn.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.MUMMIFIED_HAND"
+  },
+  {
+    "name": "Old Coin",
+    "description": "Upon pickup, gain 300 gold.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.OLD_COIN"
+  },
+  {
+    "name": "Pocketwatch",
+    "description": "Whenever you play 3 or fewer cards during your turn, draw 3 additional cards at the start of your next turn.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.POCKETWATCH"
+  },
+  {
+    "name": "Prayer Wheel",
+    "description": "Normal enemies drop an additional card reward.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.PRAYER_WHEEL"
+  },
+  {
+    "name": "Rainbow Ring",
+    "description": "The first time you play an Attack, Skill, and Power each turn, gain 1 Strength and 1 Dexterity.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.RAINBOW_RING"
+  },
+  {
+    "name": "Razor Tooth",
+    "description": "Every time you play an Attack or Skill, Upgrade it for the remainder of combat.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.RAZOR_TOOTH"
+  },
+  {
+    "name": "Shovel",
+    "description": "You can now dig at Rest Sites to obtain a random Relic.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.SHOVEL"
+  },
+  {
+    "name": "Shuriken",
+    "description": "Every time you play 3 Attacks in a single turn, gain 1 Strength.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.SHURIKEN"
+  },
+  {
+    "name": "Stone Calendar",
+    "description": "At the end of turn 7, deal 52 damage to ALL enemies.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.STONE_CALENDAR"
+  },
+  {
+    "name": "Sturdy Clamp",
+    "description": "Up to 10 Block persists across turns.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.STURDY_CLAMP"
+  },
+  {
+    "name": "The Courier",
+    "description": "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.THE_COURIER"
+  },
+  {
+    "name": "Toxic Egg",
+    "description": "Whenever you add a Skill into your Deck, Upgrade it.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.TOXIC_EGG"
+  },
+  {
+    "name": "Tungsten Rod",
+    "description": "Whenever you would lose HP, lose 1 less.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.TUNGSTEN_ROD"
+  },
+  {
+    "name": "Unceasing Top",
+    "description": "Whenever you have no cards in Hand during your turn, draw a card.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.UNCEASING_TOP"
+  },
+  {
+    "name": "Unsettling Lamp",
+    "description": "Each combat, the first time you play a card that Debuffs an enemy, double its effect.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.UNSETTLING_LAMP"
+  },
+  {
+    "name": "Vexing Puzzlebox",
+    "description": "At the start of each combat, add a random card into your Hand. It costs 0.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.VEXING_PUZZLEBOX"
+  },
+  {
+    "name": "White Beast Statue",
+    "description": "Potions always appear in combat rewards.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.WHITE_BEAST_STATUE"
+  },
+  {
+    "name": "White Star",
+    "description": "Elites drop an additional Rare card reward.",
+    "rarity": "Rare",
+    "character": "Any",
+    "gameReference": "RELIC.WHITE_STAR"
+  },
+  {
+    "name": "Charon's Ashes",
+    "description": "Whenever you Exhaust a card, deal 3 damage to ALL enemies.",
+    "rarity": "Rare",
+    "character": "Ironclad",
+    "gameReference": "RELIC.CHARON'S_ASHES"
+  },
+  {
+    "name": "Demon Tongue",
+    "description": "The first time you lose HP on your turn, heal HP equal to the amount lost.",
+    "rarity": "Rare",
+    "character": "Ironclad",
+    "gameReference": "RELIC.DEMON_TONGUE"
+  },
+  {
+    "name": "Ruined Helmet",
+    "description": "The first time you gain Strength each combat, double the amount gained.",
+    "rarity": "Rare",
+    "character": "Ironclad",
+    "gameReference": "RELIC.RUINED_HELMET"
+  },
+  {
+    "name": "Helical Dart",
+    "description": "Whenever you play a Shiv, gain 1 Dexterity this turn.",
+    "rarity": "Rare",
+    "character": "Silent",
+    "gameReference": "RELIC.HELICAL_DART"
+  },
+  {
+    "name": "Paper Krane",
+    "description": "Enemies with Weak deal 40% less damage to you rather than 25%.",
+    "rarity": "Rare",
+    "character": "Silent",
+    "gameReference": "RELIC.PAPER_KRANE"
+  },
+  {
+    "name": "Tough Bandages",
+    "description": "Whenever you discard a card during your turn, gain 3 Block.",
+    "rarity": "Rare",
+    "character": "Silent",
+    "gameReference": "RELIC.TOUGH_BANDAGES"
+  },
+  {
+    "name": "Lunar Pastry",
+    "description": "At the end of your turn, gain 1 Star.",
+    "rarity": "Rare",
+    "character": "Regent",
+    "gameReference": "RELIC.LUNAR_PASTRY"
+  },
+  {
+    "name": "Mini Regent",
+    "description": "The first time you spend Stars each turn, gain 1 Strength.",
+    "rarity": "Rare",
+    "character": "Regent",
+    "gameReference": "RELIC.MINI_REGENT"
+  },
+  {
+    "name": "Orange Dough",
+    "description": "At the start of each combat, add 2 random Colorless cards into your Hand.",
+    "rarity": "Rare",
+    "character": "Regent",
+    "gameReference": "RELIC.ORANGE_DOUGH"
+  },
+  {
+    "name": "Big Hat",
+    "description": "At the start of each combat, add 2 random Ethereal cards into your Hand.",
+    "rarity": "Rare",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.BIG_HAT"
+  },
+  {
+    "name": "Bookmark",
+    "description": "At the end of each turn, lower the cost of a random Retained card by 1 until played.",
+    "rarity": "Rare",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.BOOKMARK"
+  },
+  {
+    "name": "Ivory Tile",
+    "description": "Whenever you play a card that costs 3 Energy or more, gain 2 Energy.",
+    "rarity": "Rare",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.IVORY_TILE"
+  },
+  {
+    "name": "Emotion Chip",
+    "description": "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.",
+    "rarity": "Rare",
+    "character": "Defect",
+    "gameReference": "RELIC.EMOTION_CHIP"
+  },
+  {
+    "name": "Metronome",
+    "description": "The first time you Channel 7 Orbs each combat, deal 30 damage to ALL enemies.",
+    "rarity": "Rare",
+    "character": "Defect",
+    "gameReference": "RELIC.METRONOME"
+  },
+  {
+    "name": "Power Cell",
+    "description": "At the start of each combat, add 2 zero-cost cards from your Draw Pile into your Hand.",
+    "rarity": "Rare",
+    "character": "Defect",
+    "gameReference": "RELIC.POWER_CELL"
+  },
+  {
+    "name": "Alchemical Coffer",
+    "description": "Upon pickup, gain 4 potion slots filled with random potions.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ALCHEMICAL_COFFER"
+  },
+  {
+    "name": "Arcane Scroll",
+    "description": "Upon pickup, obtain a random Rare Card to add to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ARCANE_SCROLL"
+  },
+  {
+    "name": "Archaic Tooth",
+    "description": "Upon pickup, Transform a starter card with an ancient version.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ARCHAIC_TOOTH"
+  },
+  {
+    "name": "Astrolabe",
+    "description": "Upon pickup, Transform 3 cards, then Upgrade them.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ASTROLABE"
+  },
+  {
+    "name": "Beautiful Bracelet",
+    "description": "Upon pickup, choose 3 cards in your Deck. Enchant them with Swift 3.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BEAUTIFUL_BRACELET"
+  },
+  {
+    "name": "Biiig Hug",
+    "description": "Upon pickup, remove 4 cards from your Deck. Whenever you shuffle your Draw Pile, add a Soot into your Draw Pile.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BIIIG_HUG"
+  },
+  {
+    "name": "Black Star",
+    "description": "Elites drop an additional Relic when defeated.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BLACK_STAR"
+  },
+  {
+    "name": "Blessed Antler",
+    "description": "Gain 1 Energy at the start of each turn. At the start of each combat, shuffle 3 Dazed into your Draw Pile.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BLESSED_ANTLER"
+  },
+  {
+    "name": "Blood-Soaked Rose",
+    "description": "Upon pickup, add 1 Enthralled to your Deck. Gain 1 Energy at the start of each turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BLOOD-SOAKED_ROSE"
+  },
+  {
+    "name": "Booming Conch",
+    "description": "At the start of Elite combats, draw 2 additional cards.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BOOMING_CONCH"
+  },
+  {
+    "name": "Brilliant Scarf",
+    "description": "The 5th card you play each turn is free.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.BRILLIANT_SCARF"
+  },
+  {
+    "name": "Calling Bell",
+    "description": "Upon pickup, obtain a unique Curse and 3 Relics.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.CALLING_BELL"
+  },
+  {
+    "name": "Choices Paradox",
+    "description": "At the start of each combat, add 1 of 5 random cards into your Hand. Add Retain to the chosen card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.CHOICES_PARADOX"
+  },
+  {
+    "name": "Claws",
+    "description": "Upon pickup, Transform up to 6 cards into Maul.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.CLAWS"
+  },
+  {
+    "name": "Crossbow",
+    "description": "At the start of your turn, add a random Attack into your Hand. It costs 0 this turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.CROSSBOW"
+  },
+  {
+    "name": "Cursed Pearl",
+    "description": "Upon pickup, receive Greed. Gain 333 gold.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.CURSED_PEARL"
+  },
+  {
+    "name": "Delicate Frond",
+    "description": "At the start of each combat, fill all empty potion slots with random potions.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.DELICATE_FROND"
+  },
+  {
+    "name": "Diamond Diadem",
+    "description": "Whenever you play 2 or fewer cards in a turn, take half damage from enemies.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.DIAMOND_DIADEM"
+  },
+  {
+    "name": "Distinguished Cape",
+    "description": "Upon pickup, lose 9 Max HP. Add 3 Apparitions to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.DISTINGUISHED_CAPE"
+  },
+  {
+    "name": "Driftwood",
+    "description": "You may reroll each card reward once.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.DRIFTWOOD"
+  },
+  {
+    "name": "Dusty Tome",
+    "description": "Upon pickup, obtain an Ancient Card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.DUSTY_TOME"
+  },
+  {
+    "name": "Ectoplasm",
+    "description": "You can no longer gain gold. Gain 1 Energy at the start of each turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ECTOPLASM"
+  },
+  {
+    "name": "Electric Shrymp",
+    "description": "Upon pickup, Enchant a Skill with Imbued.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.ELECTRIC_SHRYMP"
+  },
+  {
+    "name": "Empty Cage",
+    "description": "Upon pickup, remove 2 cards from your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.EMPTY_CAGE"
+  },
+  {
+    "name": "Fiddle",
+    "description": "At the start of each turn, draw 2 additional cards. You may not draw cards during your turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.FIDDLE"
+  },
+  {
+    "name": "Fur Coat",
+    "description": "Upon pickup, mark 7 random combats. Enemies in those rooms have 1 HP.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.FUR_COAT"
+  },
+  {
+    "name": "Glass Eye",
+    "description": "Upon pickup, obtain 2 Common cards, 2 Uncommon cards, and 1 Rare card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.GLASS_EYE"
+  },
+  {
+    "name": "Glitter",
+    "description": "Enchant all card rewards with Glam.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.GLITTER"
+  },
+  {
+    "name": "Golden Compass",
+    "description": "Upon pickup, replace the Act 2 Map with a single special path.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.GOLDEN_COMPASS"
+  },
+  {
+    "name": "Golden Pearl",
+    "description": "Upon pickup, gain 150 gold.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.GOLDEN_PEARL"
+  },
+  {
+    "name": "Iron Club",
+    "description": "Every 4 cards you play, draw 1 card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.IRON_CLUB"
+  },
+  {
+    "name": "Jeweled Mask",
+    "description": "At the start of combat put a random Power from your Draw Pile into your Hand, it's free to play.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.JEWELED_MASK"
+  },
+  {
+    "name": "Jewelry Box",
+    "description": "Upon pickup, add 1 Apotheosis to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.JEWELRY_BOX"
+  },
+  {
+    "name": "Large Capsule",
+    "description": "Upon pickup, obtain 2 random Relics. Add an additional Strike and Defend to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LARGE_CAPSULE"
+  },
+  {
+    "name": "Lava Rock",
+    "description": "The Act 1 Boss drops 2 Relics.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LAVA_ROCK"
+  },
+  {
+    "name": "Lead Paperweight",
+    "description": "Upon pickup, choose 1 of 2 Colorless cards to add to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LEAD_PAPERWEIGHT"
+  },
+  {
+    "name": "Leafy Poultice",
+    "description": "Upon pickup, Transform 1 of your Strikes and 1 of your Defends and lose 10 Max HP.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LEAFY_POULTICE"
+  },
+  {
+    "name": "Looming Fruit",
+    "description": "Upon pickup, raise your Max HP by 31.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LOOMING_FRUIT"
+  },
+  {
+    "name": "Lord's Parasol",
+    "description": "When you encounter the Merchant, immediately obtain EVERYTHING he sells.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LORD'S_PARASOL"
+  },
+  {
+    "name": "Lost Coffer",
+    "description": "Upon pickup, gain 1 card reward and procure 1 random potion.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.LOST_COFFER"
+  },
+  {
+    "name": "Massive Scroll",
+    "description": "Upon pickup, choose 1 of 3 Multiplayer Colorless Cards to add to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.MASSIVE_SCROLL"
+  },
+  {
+    "name": "Meat Cleaver",
+    "description": "You may Cook at Rest Sites.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.MEAT_CLEAVER"
+  },
+  {
+    "name": "Music Box",
+    "description": "Create an Ethereal copy of the first Attack you play each turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.MUSIC_BOX"
+  },
+  {
+    "name": "Neow's Torment",
+    "description": "Upon pickup, add 1 Neow's Fury to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.NEOW'S_TORMENT"
+  },
+  {
+    "name": "New Leaf",
+    "description": "Upon pickup, Transform 1 card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.NEW_LEAF"
+  },
+  {
+    "name": "Nutritious Oyster",
+    "description": "Upon pickup, raise your Max HP by 11.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.NUTRITIOUS_OYSTER"
+  },
+  {
+    "name": "Nutritious Soup",
+    "description": "Upon pickup, Enchant all Strikes in your Deck with Tezcatara's Ember.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.NUTRITIOUS_SOUP"
+  },
+  {
+    "name": "Pael's Blood",
+    "description": "At the start of your turn, draw 1 additional card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_BLOOD"
+  },
+  {
+    "name": "Pael's Claw",
+    "description": "Upon pickup, Enchant all Defends with Goopy.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_CLAW"
+  },
+  {
+    "name": "Pael's Eye",
+    "description": "The first time each combat you end your turn without playing cards, Exhaust your Hand, and take an extra turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_EYE"
+  },
+  {
+    "name": "Pael's Flesh",
+    "description": "Gain an additional 1 Energy at the start of your 3rd turn, and every turn after that.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_FLESH"
+  },
+  {
+    "name": "Pael's Growth",
+    "description": "Upon pickup, Enchant a card with Clone.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_GROWTH"
+  },
+  {
+    "name": "Pael's Horn",
+    "description": "Upon pickup, add 2 Relax to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_HORN"
+  },
+  {
+    "name": "Pael's Legion",
+    "description": "Doubles Block gained from a card, then goes to sleep for 2 turns.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_LEGION"
+  },
+  {
+    "name": "Pael's Tears",
+    "description": "If you end your turn with unspent Energy, gain an additional 2 Energy next turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_TEARS"
+  },
+  {
+    "name": "Pael's Tooth",
+    "description": "Upon pickup, remove 5 cards from your Deck. After each combat, randomly add 1 back Upgraded.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_TOOTH"
+  },
+  {
+    "name": "Pael's Wing",
+    "description": "You may sacrifice card rewards to Pael. Every 2 sacrifices, obtain a Relic.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PAEL'S_WING"
+  },
+  {
+    "name": "Pandora's Box",
+    "description": "Transform ALL Strikes and Defends.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PANDORA'S_BOX"
+  },
+  {
+    "name": "Philosopher's Stone",
+    "description": "Gain 1 Energy at the start of each turn. ALL enemies start combat with 1 Strength.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PHILOSOPHER'S_STONE"
+  },
+  {
+    "name": "Pomander",
+    "description": "Upon pickup, Upgrade a card.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.POMANDER"
+  },
+  {
+    "name": "Precarious Shears",
+    "description": "Upon pickup, remove 2 cards from your Deck and take 13 damage.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PRECARIOUS_SHEARS"
+  },
+  {
+    "name": "Precise Scissors",
+    "description": "Upon pickup, remove 1 card from your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PRECISE_SCISSORS"
+  },
+  {
+    "name": "Preserved Fog",
+    "description": "Upon pickup, remove 5 cards from your Deck. Add Folly to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PRESERVED_FOG"
+  },
+  {
+    "name": "Prismatic Gem",
+    "description": "Gain 1 Energy at the start of each turn. Card rewards now contain cards from other colors.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PRISMATIC_GEM"
+  },
+  {
+    "name": "Pumpkin Candle",
+    "description": "Gain 1 Energy at the start of each turn. Extinguishes at the start of Act 3.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.PUMPKIN_CANDLE"
+  },
+  {
+    "name": "Radiant Pearl",
+    "description": "At the start of each combat, add 1 Luminesce into your Hand.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.RADIANT_PEARL"
+  },
+  {
+    "name": "Runic Pyramid",
+    "description": "At the end of your turn, you no longer discard your Hand.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.RUNIC_PYRAMID"
+  },
+  {
+    "name": "Sai",
+    "description": "At the start of your turn, gain 7 Block.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SAI"
+  },
+  {
+    "name": "Sand Castle",
+    "description": "Upon pickup, Upgrade 6 random cards.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SAND_CASTLE"
+  },
+  {
+    "name": "Scroll Boxes",
+    "description": "Upon pickup, lose all gold and choose 1 of 2 packs of cards to add to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SCROLL_BOXES"
+  },
+  {
+    "name": "Sea Glass",
+    "description": "See 15 cards from another character. Choose any number of them to add to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SEA_GLASS"
+  },
+  {
+    "name": "Seal of Gold",
+    "description": "At the start of your turn, spend 5 gold to gain 1 Energy.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SEAL_OF_GOLD"
+  },
+  {
+    "name": "Sere Talon",
+    "description": "Upon pickup, add 2 random Curses and 3 Wishes to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SERE_TALON"
+  },
+  {
+    "name": "Signet Ring",
+    "description": "Upon pickup, gain 999 gold.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SIGNET_RING"
+  },
+  {
+    "name": "Silver Crucible",
+    "description": "The first 3 card rewards you see are Upgraded. The first Treasure Chest you open is empty.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SILVER_CRUCIBLE"
+  },
+  {
+    "name": "Small Capsule",
+    "description": "Upon pickup, obtain a random Relic.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SMALL_CAPSULE"
+  },
+  {
+    "name": "Snecko Eye",
+    "description": "At the start of your turn, draw 2 additional cards. Start each combat Confused.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SNECKO_EYE"
+  },
+  {
+    "name": "Sozu",
+    "description": "Gain 1 Energy at the start of each turn. You can no longer obtain potions.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SOZU"
+  },
+  {
+    "name": "Spiked Gauntlets",
+    "description": "Gain 1 Energy at the start of each turn. Powers cost 1 more Energy.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.SPIKED_GAUNTLETS"
+  },
+  {
+    "name": "Stone Humidifier",
+    "description": "Whenever you Rest at a Rest Site, raise your Max HP by 5.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.STONE_HUMIDIFIER"
+  },
+  {
+    "name": "Storybook",
+    "description": "Upon pickup, add 1 Brightest Flame to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.STORYBOOK"
+  },
+  {
+    "name": "Tanx's Whistle",
+    "description": "Upon pickup, add 1 Whistle to your Deck.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.TANX'S_WHISTLE"
+  },
+  {
+    "name": "Throwing Axe",
+    "description": "The first card you play each combat is played an extra time.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.THROWING_AXE"
+  },
+  {
+    "name": "Toasty Mittens",
+    "description": "At the start of your turn, Exhaust the top card of your Draw Pile and gain 1 Strength.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.TOASTY_MITTENS"
+  },
+  {
+    "name": "Touch of Orobas",
+    "description": "Upon pickup, replace your starter Relic with an Ancient version.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.TOUCH_OF_OROBAS"
+  },
+  {
+    "name": "Toy Box",
+    "description": "Upon pickup, obtain 4 Wax Relics. Every 3 combats, your left-most Wax Relic will melt away.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.TOY_BOX"
+  },
+  {
+    "name": "Tri-Boomerang",
+    "description": "Choose 3 Attacks in your Deck. Enchant them with Instinct.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.TRI-BOOMERANG"
+  },
+  {
+    "name": "Velvet Choker",
+    "description": "Gain 1 Energy at the start of each turn. You cannot play more than 6 cards per turn.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.VELVET_CHOKER"
+  },
+  {
+    "name": "Very Hot Cocoa",
+    "description": "Start each combat with an additional 4 Energy.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.VERY_HOT_COCOA"
+  },
+  {
+    "name": "War Hammer",
+    "description": "Whenever you kill an Elite, Upgrade 4 random cards.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.WAR_HAMMER"
+  },
+  {
+    "name": "Whispering Earring",
+    "description": "Gain 1 Energy at the start of each turn. Vakuu plays your first turn for you.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.WHISPERING_EARRING"
+  },
+  {
+    "name": "Yummy Cookie",
+    "description": "Upon pickup, Upgrade 4 cards.",
+    "rarity": "Ancient",
+    "character": "Any",
+    "gameReference": "RELIC.YUMMY_COOKIE"
+  },
+  {
+    "name": "Belt Buckle",
+    "description": "While you have no potions, you have 2 additional Dexterity.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.BELT_BUCKLE"
+  },
+  {
+    "name": "Bread",
+    "description": "At the start of your first turn, lose 1 Energy. At the start of all other turns, gain 1 Energy.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.BREAD"
+  },
+  {
+    "name": "Burning Sticks",
+    "description": "The first time each combat you Exhaust a Skill, add a copy of it into your Hand.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.BURNING_STICKS"
+  },
+  {
+    "name": "Cauldron",
+    "description": "Upon pickup, brews 5 random potions.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.CAULDRON"
+  },
+  {
+    "name": "Chemical X",
+    "description": "The effects of your cost X cards are increased by 2.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.CHEMICAL_X"
+  },
+  {
+    "name": "Dingy Rug",
+    "description": "Card rewards can now contain Colorless cards.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.DINGY_RUG"
+  },
+  {
+    "name": "Dolly's Mirror",
+    "description": "Upon pickup, obtain an additional copy of a card in your Deck.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.DOLLY'S_MIRROR"
+  },
+  {
+    "name": "Dragon Fruit",
+    "description": "Whenever you gain gold, raise your Max HP by 1.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.DRAGON_FRUIT"
+  },
+  {
+    "name": "Ghost Seed",
+    "description": "Strikes and Defends gain Ethereal.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.GHOST_SEED"
+  },
+  {
+    "name": "Gnarled Hammer",
+    "description": "Upon pickup, Enchant up to 3 Attacks with Sharp 3.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.GNARLED_HAMMER"
+  },
+  {
+    "name": "Kifuda",
+    "description": "Upon pickup, Enchant up to 3 cards with Adroit.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.KIFUDA"
+  },
+  {
+    "name": "Lava Lamp",
+    "description": "At the end of combat, Upgrade all card rewards if you took no damage.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.LAVA_LAMP"
+  },
+  {
+    "name": "Lee's Waffle",
+    "description": "Upon pickup, raise your Max HP by 7 and heal all of your HP.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.LEES_WAFFLE"
+  },
+  {
+    "name": "Membership Card",
+    "description": "50% discount on all products!",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.MEMBERSHIP_CARD"
+  },
+  {
+    "name": "Miniature Tent",
+    "description": "You may choose any number of options at Rest Sites.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.MINIATURE_TENT"
+  },
+  {
+    "name": "Mystic Lighter",
+    "description": "Enchanted Attacks deal 9 additional damage.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.MYSTIC_LIGHTER"
+  },
+  {
+    "name": "Orrery",
+    "description": "Upon pickup, gain 5 card rewards.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.ORRERY"
+  },
+  {
+    "name": "Punch Dagger",
+    "description": "Upon pickup, Enchant an Attack with Momentum 5.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.PUNCH_DAGGER"
+  },
+  {
+    "name": "Ringing Triangle",
+    "description": "Retain your Hand on the first turn of combat.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.RINGING_TRIANGLE"
+  },
+  {
+    "name": "Royal Stamp",
+    "description": "Upon pickup, choose an Attack or Skill in your Deck to Enchant with Royally Approved.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.ROYAL_STAMP"
+  },
+  {
+    "name": "Screaming Flagon",
+    "description": "If you end your turn with no cards in your Hand, deal 20 damage to ALL enemies.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.SCREAMING_FLAGON"
+  },
+  {
+    "name": "Sling of Courage",
+    "description": "Start each Elite combat with 2 Strength.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.SLING_OF_COURAGE"
+  },
+  {
+    "name": "The Abacus",
+    "description": "Whenever you shuffle your Draw Pile, gain 6 Block.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.THE_ABACUS"
+  },
+  {
+    "name": "Toolbox",
+    "description": "At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your Hand.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.TOOLBOX"
+  },
+  {
+    "name": "Wing Charm",
+    "description": "A random card in each card reward is Enchanted with Swift 1.",
+    "rarity": "Shop",
+    "character": "Any",
+    "gameReference": "RELIC.WING_CHARM"
+  },
+  {
+    "name": "Brimstone",
+    "description": "At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.",
+    "rarity": "Shop",
+    "character": "Ironclad",
+    "gameReference": "RELIC.BRIMSTONE"
+  },
+  {
+    "name": "Ninja Scroll",
+    "description": "At the start of each combat, add 3 Shivs into your Hand.",
+    "rarity": "Shop",
+    "character": "Silent",
+    "gameReference": "RELIC.NINJA_SCROLL"
+  },
+  {
+    "name": "Vitruvian Minion",
+    "description": "Cards containing \"Minion\" deal double damage and gain double Block.",
+    "rarity": "Shop",
+    "character": "Regent",
+    "gameReference": "RELIC.VITRUVIAN_MINION"
+  },
+  {
+    "name": "Undying Sigil",
+    "description": "Enemies with at least as much Doom as HP deal 50% less damage.",
+    "rarity": "Shop",
+    "character": "Necrobinder",
+    "gameReference": "RELIC.UNDYING_SIGIL"
+  },
+  {
+    "name": "Runic Capacitor",
+    "description": "Start each combat with 3 additional Orb Slots.",
+    "rarity": "Shop",
+    "character": "Defect",
+    "gameReference": "RELIC.RUNIC_CAPACITOR"
+  },
+  {
+    "name": "Anchor",
+    "description": "Start each combat with 4 Block.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.ANCHOR"
+  },
+  {
+    "name": "Big Mushroom",
+    "description": "Upon pickup, raise your Max HP by 20. At the start of each combat, draw 2 fewer cards.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.BIG_MUSHROOM"
+  },
+  {
+    "name": "Bing Bong",
+    "description": "Whenever you add a card to your Deck, add one additional copy.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.BING_BONG"
+  },
+  {
+    "name": "Blood Vial",
+    "description": "At the start of each combat, heal 1 HP.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.BLOOD_VIAL"
+  },
+  {
+    "name": "Bone Tea",
+    "description": "At the start of the next combat, Upgrade your starting hand.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.BONE_TEA"
+  },
+  {
+    "name": "Byrdpip",
+    "description": "Upon pickup, gain the card Byrd Swoop. A Byrdpip will accompany you in battles.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.BYRDPIP"
+  },
+  {
+    "name": "Darkstone Periapt",
+    "description": "Whenever you obtain a Curse, raise your Max HP by 6.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.DARKSTONE_PERIAPT"
+  },
+  {
+    "name": "Daughter of the Wind",
+    "description": "Whenever you play an Attack, gain 1 Block.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.DAUGHTER_OF_THE_WIND"
+  },
+  {
+    "name": "Dream Catcher",
+    "description": "Whenever you Rest, you may add a card to your Deck.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.DREAM_CATCHER"
+  },
+  {
+    "name": "Ember Tea",
+    "description": "At the start of the next 5 combats, gain 2 Strength.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.EMBER_TEA"
+  },
+  {
+    "name": "Forgotten Soul",
+    "description": "Whenever you Exhaust a card, deal 1 damage to a random enemy.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.FORGOTTEN_SOUL"
+  },
+  {
+    "name": "Fragrant Mushroom",
+    "description": "Upon pickup, lose 15 HP and Upgrade 3 random cards.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.FRAGRANT_MUSHROOM"
+  },
+  {
+    "name": "Fresnel Lens",
+    "description": "Whenever you add a card that gains Block to your Deck, Enchant it with Nimble 2.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.FRESNEL_LENS"
+  },
+  {
+    "name": "Hand Drill",
+    "description": "Whenever you break an enemy's Block, apply 2 Vulnerable.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.HAND_DRILL"
+  },
+  {
+    "name": "Happy Flower",
+    "description": "Every 5 turns, gain 1 Energy.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.HAPPY_FLOWER"
+  },
+  {
+    "name": "History Course",
+    "description": "At the start of your turn, play a copy of your last played Attack or Skill.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.HISTORY_COURSE"
+  },
+  {
+    "name": "Lee's Waffle",
+    "description": "Upon pickup, heal 10% of your HP.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.LEE'S_WAFFLE"
+  },
+  {
+    "name": "Lost Wisp",
+    "description": "Whenever you play a Power, deal 8 damage to ALL enemies.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.LOST_WISP"
+  },
+  {
+    "name": "Mango",
+    "description": "Upon pickup, raise your Max HP by 3.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.MANGO"
+  },
+  {
+    "name": "Maw Bank",
+    "description": "Whenever you climb a floor, gain 12 gold. No longer works when you spend any gold at the shop.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.MAW_BANK"
+  },
+  {
+    "name": "Mr. Struggles",
+    "description": "At the start of your turn, deal damage equal to the turn number to ALL enemies.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.MR._STRUGGLES"
+  },
+  {
+    "name": "Orichalcum",
+    "description": "If you end your turn without Block, gain 3 Block.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.ORICHALCUM"
+  },
+  {
+    "name": "Pollinous Core",
+    "description": "Every 4 turns, draw 2 additional cards.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.POLLINOUS_CORE"
+  },
+  {
+    "name": "Royal Poison",
+    "description": "At the start of each combat, lose 4 HP.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.ROYAL_POISON"
+  },
+  {
+    "name": "Snecko Eye",
+    "description": "Start each combat Confused.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.SNECKO_EYE"
+  },
+  {
+    "name": "Strike Dummy",
+    "description": "Cards containing \"Strike\" deal 1 additional damage.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.STRIKE_DUMMY"
+  },
+  {
+    "name": "Sword of Jade",
+    "description": "Start each combat with 3 Strength.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.SWORD_OF_JADE"
+  },
+  {
+    "name": "Sword of Stone",
+    "description": "Transforms into a powerful Relic after defeating 5 Elites.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.SWORD_OF_STONE"
+  },
+  {
+    "name": "Tea of Discourtesy",
+    "description": "At the start of the next combat, shuffle 2 Dazed into your Draw Pile.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.TEA_OF_DISCOURTESY"
+  },
+  {
+    "name": "The Boot",
+    "description": "Whenever you would deal 4 or less unblocked attack damage, increase it to 5.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.THE_BOOT"
+  },
+  {
+    "name": "The Chosen Cheese",
+    "description": "At the end of combat, gain 1 Max HP.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.THE_CHOSEN_CHEESE"
+  },
+  {
+    "name": "The Merchant's Rug",
+    "description": "Poor imitation. Does nothing.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.THE_MERCHANT'S_RUG"
+  },
+  {
+    "name": "Venerable Tea Set",
+    "description": "Whenever you enter a Rest Site, start the next combat with an additional 1 Energy.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.VENERABLE_TEA_SET"
+  },
+  {
+    "name": "Wongo Customer Appreciation Badge",
+    "description": "Does nothing.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.WONGO_CUSTOMER_APPRECIATION_BADGE"
+  },
+  {
+    "name": "Wongo's Mystery Ticket",
+    "description": "Receive 3 random Relics after 5 combats.",
+    "rarity": "Event",
+    "character": "Any",
+    "gameReference": "RELIC.WONGO'S_MYSTERY_TICKET"
+  },
+  {
+    "name": "Circlet",
+    "description": "It's a circlet.",
+    "rarity": "Special",
+    "character": "Any",
+    "gameReference": "RELIC.CIRCLET"
+  }
+]
