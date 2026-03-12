@@ -5,8 +5,8 @@ import { useRelics } from './composables/useRelics'
 import type { Card, Relic } from './types/database'
 import data from '../data/defect-first-victory.json'
 
-const { loadAll, byCharacter } = useCards()
-const { byCharacter: relicsByCharacter } = useRelics()
+const { loadAll: getCards, byCharacter } = useCards()
+const { loadAll: getRelics, byCharacter: relicsByCharacter } = useRelics()
 
 const allCards = ref<Card[]>([])
 const allRelics = ref<Relic[]>([])
@@ -14,7 +14,8 @@ const characterCards = ref<Card[]>([])
 const characterRelics = ref<Relic[]>([])
 
 onMounted(async () => {
-  allCards.value = await loadAll()
+  allCards.value = await getCards()
+  allRelics.value = await getRelics()
   characterCards.value = byCharacter('ironclad')
   characterRelics.value = relicsByCharacter('Ironclad')
 })
@@ -91,7 +92,6 @@ const maxHp = lastMapPlayed?.player_stats[0]?.max_hp
     </div>
   </div>
 
-  {{ allRelics }}
 </template>
 
 <style>
